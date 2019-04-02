@@ -102,7 +102,7 @@ Many hands make light work. With the help of the new migrants, construction of t
 An outpost liaison from Atorushat has arrived with a caravan.
 We made a new trade agreement, and I bought quite a few basic supplies, as well as a nice steel anvil. With our latest project complete, I think it is time to start digging down into the depths to find magma.
 
-![outpost liason](img/year-02/11-strangemood.jpg "outpost liason")
+![outpost liason](img/year-02/13-trade_agreement.jpg "outpost liason")
 
 
 
