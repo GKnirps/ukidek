@@ -11,7 +11,7 @@ We finally arrived at the place where the great fortress of ùkidek waits to be 
 
 We need to work fast, you never know when a necromancer decides to add your body to their collection of animated corpses. I ordered Rovod, our miner, to dig a tunnel. While Rovod is digging, Sazir the woodworker can cut down some trees. Since no one is sick or wounded yet, I told Lolor, our medical dwarf, to gather some useful plants. Once we have dug out some stone or fell some trees, we can start making doors and furniture.
 
-After I gave those orders, Kadol the Architect came to me: ”Grahar, we have to pickaxes. Wouldn't it be faster if two dwarves dig at the same time?“.
+After I gave those orders, Kadol the Architect came to me: ”Grahar, we have two pickaxes. Wouldn't it be faster if two dwarves dig at the same time?“.
 
 Congratulations Kadol. You are now our stand-in miner.
 
@@ -35,13 +35,13 @@ Since I have not much to do so far, I made some blueprints for the upcoming entr
 
 ![Digging designations for the entrance hall and an unfinished door.](img/year-01/entrance-hall-plan.png "Dig faster!")
 
-Ingish the mason has created the first door which I orderd to be placed in the entrance hall
+Ingish the mason has created the first door which I ordered to be placed in the entrance hall.
 
 ### 25th Granite, 250
 
 ![A herd of elephants wandering through a thick forest](img/year-01/elephants.png "Some people see majestic creatures. I see a source of meat and ivory.")
 
-Aparently, elephants roam this area. Today we saw a few of them. Somewhat disturbing, but I have been told that those stries about elephants that murder scores of dwarves are only a legend and that they are actually rather peaceful animals.
+Apparently, elephants roam this area. Today we saw a few of them. Somewhat disturbing, but I have been told that those stories about elephants that murder scores of dwarves are only a legend and that they are actually rather peaceful animals.
 
 We should still place some cage traps later on. One elephant can feed the fortress for some time and even give use valuable ivory. Maybe we can even start breeding them. But for now, we just ignore them, just like they ignore us.
 
@@ -55,7 +55,7 @@ Finally! We have dug out the hall that will later become the trade depot hall. T
 
 We have trouble getting things done. We are here for more than two month now, and we don't even have places too sleep yet. At least we managed to create some underground farm plots. We dug out space for the kitchen and the still, which are under construction.
 
-Right now, our miners are working on on my office, so I can get some work done. Next ine line are the bedrooms, then the workshops. Sazir already constructed beds, so we don't need the workshops before the bedrooms.
+Right now, our miners are working on on my office, so I can get some work done. Next in line are the bedrooms, then the workshops. Sazir already constructed beds, so we don't need the workshops before the bedrooms.
 
 I plan the great hall to be three stories tall, but this is a thing for the future.
 
@@ -87,7 +87,7 @@ The migrants work well. We don't have room for everyone yet, but our pub is almo
 
 Autumn has arrived. Several workshops are set up, we have mussels and eggs as addition to our diet.
 
-Our current bottleneck is our mason, Ingish. We have a high demand on stone furniture such as cabinets, coffers and doorrs and Ingish cannot keep up. We have dug out rooms for everyone, including potential immigrants this autumn but we cannot use these rooms yet due to lack of doors.
+Our current bottleneck is our mason, Ingish. We have a high demand on stone furniture such as cabinets, coffers and doors and Ingish cannot keep up. We have dug out rooms for everyone, including potential immigrants this autumn but we cannot use these rooms yet due to lack of doors.
 
 We are somewhat low on drinks, partially because we don't have many barrels or stone pots. Our Stonecrafter made some, so we should be fine. Nevertheless, when the caravan comes, I should buy some food and drinks so we can make it over the winter. The weather above ground may stay warm in the winter, but underground only plump helmets continue to grow.
 
@@ -119,7 +119,7 @@ The outpost liaison and a trading caravan have arrived. Finally. We don't have m
 
 ### 13th Limestone, 250
 
-I just had a meeting with the outpost liaison. We shared som rumours about what is going on in the world and what the caravan should bring next year. Here is a short list:
+I just had a meeting with the outpost liaison. We shared some rumours about what is going on in the world and what the caravan should bring next year. Here is a short list:
 - leather (you can always use leather, and getting useful amounts of leather is hard, since we don't have a lot of livestock yet.
 - cloth (plant, silk and yarn, reason: see leather)
 - bituminous coal (when we want to make steel, we need coal. Not sure if we find some here)
@@ -136,19 +136,19 @@ Today I the merchants were finally done unloading their goods. I bought an anvil
 
 ### 15th Limestone, 250
 
-A yak calf and a puppy were born today. Which reminds me that I still want to train thos dogs to guard our entrance.
+A yak calf and a puppy were born today. Which reminds me that I still want to train those dogs to guard our entrance.
 
-I realize that we should create an indoor pasture for our yaks and the pets. So far however, the usual funghi that tend to cover every muddy bit of cave floor at home don't grow on the soil we have underground. Lolor says we should dig until we find a natural cave to set free the funghi spores down there. This sounds valid, but I don't want to risk opening a cave yet. Who knows what beasts lurk down there?
+I realize that we should create an indoor pasture for our yaks and the pets. So far however, the usual fungi that tend to cover every muddy bit of cave floor at home don't grow on the soil we have underground. Lolor says we should dig until we find a natural cave to set free the fungi spores down there. This sounds valid, but I don't want to risk opening a cave yet. Who knows what beasts lurk down there?
 
-### 24th limetsone, 250
+### 24th Limestone, 250
 
-They told me I did not have the skill to train a war dog! They called me mad! Mad! But I showed them! We now have to war dogs on leashes close to the trade depot. Nothing gets past them without being noticed. I even think they should be able to take out a kobold all by themselves.
+They told me I did not have the skill to train a war dog! They called me mad! Mad! But I showed them! We now have two war dogs on leashes close to the trade depot. Nothing gets past them without being noticed. I even think they should be able to take out a kobold all by themselves.
 
 Several animals have been born in the past few days. After the puppy that I mentioned earlier, the cat gave birth to three kittens and the sow now has a piglet.
 
 The bridge t — wait a moment someone just told me that migrant just arrived. I have to see if they are useful.
 
-### 24th limestone, 250 addition
+### 24th Limestone, 250 addition
 
 Lêgan be praised! One of the newcomers is a èzum Ushattishis, a legendary armorsmith. The other one is a brewer. Currently Oddom brews our drinks, but none of us, including himself is happy with this. Now Oddom can concentrate on becoming a good cook while Ushat makes delicious booze.
 
@@ -189,7 +189,7 @@ Anyway, I have to re-plan the entrance hall now.
 
 ### 28th Opal, 250
 
-The winter was uneventful so far. I prepared the entrance hall, but the drawbridge ist not finished yet. It will probably be finished before spring. Then caravan wagons will have access to our depot, at least if the entrance is not sealed by the bridges.
+The winter was uneventful so far. I prepared the entrance hall, but the drawbridge is not finished yet. It will probably be finished before spring. Then caravan wagons will have access to our depot, at least if the entrance is not sealed by the bridges.
 
 I fear that I do not have enough rooms for potential immigrants. Enough rooms are dug out, but I do not have enough doors to make proper rooms of them.
 
@@ -206,7 +206,7 @@ Notes to my successor
 
 ![A map of bedrooms](img/year-01/notes-rooms.png "Having a larger bedroom is a perk of being manager.")
 
-On the map, you can see my bedroom and my office in the east and the other bedrooms in the west. I dug out some extra rooms roughly the same size as mine. They are meant for a potential sherrif, mayors or other dwarves that require more space than others.
+On the map, you can see my bedroom and my office in the east and the other bedrooms in the west. I dug out some extra rooms roughly the same size as mine. They are meant for a potential sherriff, mayors or other dwarves that require more space than others.
 
 In the west, you can see the common bedrooms. Each bedroom has a bed, a cabinet, a coffer and a door. The bedrooms in the northern half are fully equipped, or at least designated to be fully equipped. Right now, we have 36 bedrooms for 19 dwarves.
 
@@ -268,7 +268,7 @@ We have no forges or smelters yet. We have an anvil and limonite. We have a well
 
 We have no armor or weapons yet (except for two copper battle axes). We have an unused pick, in case we need another miner.
 
-#### usesless crap
+#### useless crap
 Our Stonecrafter made some rock toys, scepters and other useless crap that you can sell to the elves.
 
 ### Further notes
