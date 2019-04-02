@@ -42,7 +42,7 @@ IT IS A FULL MOON, AND A WEREBEAR IS ATTACKING THE MIGRANTS!
 A few of us grab the nearest weapons we can find (is this a *wooden* sword?), and run up the entrance stairs, out into the moonlight.
 The grass above is wet with the blood of 3 the migrants, who have have been literally torn to shreds, decorating the entryway to our peaceful outpost like a grim warning.
 
-![The slain migrants](img/year-02/4-werebear_aftermath.jpg "The grisly scene.")
+![The slain migrants](img/year-02/5-werebear_aftermath.jpg "The grisly scene.")
 
 The beastman moves with unnatural speed. We watch in horror as it rips off the leg of our carpenter, who was out gathering materials. Her axe, which is a better weapon than anything we cary with us now, is no match against the raw strength of the monster. The foul beast turns, still holding the leg in its massive clawed hands. It's bloodlust gaze lands on Iton Ralisbrek, and a small child she is traveling with.
 
@@ -50,7 +50,7 @@ Iton Ralsibrek is a cheese maker by profession, but she is the most experienced 
 
 The bear-man collides with Iton like a ton of bricks. They fall to the ground, and I look away. But instead of dwarven screams, I hear another sound. I hear the pained, struggling sounds from the bear. I turn to see the most horrific thing I have ever been grateful to see. The twisted form of the bear-man is un-twisting. The full moon's spell has been broken. The beast has completely left the man, leaving behind an exhausted, bewildered human. Iton takes this advantage.
 
-![A human running away from a group of vengeful dwarves](img/year-02/5-chase.jpg "The human attempts to flee!")
+![A human running away from a group of vengeful dwarves](img/year-02/6-chase.jpg "The human attempts to flee!")
 
 She carries no weapon, but that fact does nothing to stop her fury. She fights the human with fist and boot alike. The human is trying to escape now. He gets up and starts running away as best he can, but there is a group of us now, and he can not outrun us. If the full moon's spell persisted, he could have slaughtered all of us, but his fate is sealed. We tackle the powerless man. Iton ends his life by ripping his throat out with her hand.
 
