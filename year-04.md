@@ -19,7 +19,7 @@ I was just interrupted by one of our peasants. I can't remember her name (it's p
 
 #### Addition
 
-I spent most of the time yesterday to get up to date on what is going on in the fortress. For the last two years, I mostly relayed work orders and took inventory, so I was not really up to whatever important stuff was going on.
+I spent most of today to get up to date on what is going on in the fortress. For the last two years, I mostly relayed work orders and took inventory, so I was not really up to whatever important stuff was going on.
 
 #### nobility and holdings
 
@@ -40,11 +40,11 @@ All the animal skeletons left outside are also a problem. Some of them are even 
 
 There are several Workshops outside, which means dwarves have to work outside. **Outside!** No wonder everyone here is traumatized. Even the children play outside!
 
-![Dodòk Masterquake: ”I was nauseated by the sun. So disgusting…“](img/year-04/02-child-nauseated.png "At least she has a choice. Our tanners do not.)
+![Dodòk Masterquake: ”I was nauseated by the sun. So disgusting…“](img/year-04/02-child-nauseated.png "At least she has a choice. Our tanners do not.")
 
 We also have only one kind of booze and are quickly running out of it.
 
-Our biggest morality problem however is that we don't have any space to pray. This needs to be changed quickly.
+Our biggest morality problem however is that we don't have a place to pray. This needs to be changed quickly.
 
 So, four steps do be done:
 1. create a temple for everyone who wants to worship any kind of god.
@@ -81,7 +81,7 @@ We need more space to produce stuff and store the raw materials. Most importantl
 
 As mentioned before, we also need a larger variety of booze. And more booze. We only have 41 servings left, with a fortress population of 137 (including resident performers, but not including short-time visitors). At this rate, we will be dry by the end of the month. We also have a gigantic plump helmet field and over six hundred plump helmets. We should replace this with several smaller but more diverse farm plots.
 
-We also have lots of mussel shells lying around. Maybe we can craft some trinkets with them. I don't want to imaging what those necromancers will do if they raise over a hundred mussel shells at the same time. This is scary.
+We also have lots of mussel shells lying around. Maybe we can craft some trinkets with them. I don't want to imagine what those necromancers will do if they raise over a hundred mussel shells at the same time. This is scary.
 
 So, long story short:
 1. dig to the lava sea
@@ -119,7 +119,7 @@ From various reports I gathered an approximate number of enemies:
 - 25 goblin soldiers, riding on
 - 25 beak dogs
 - 10 trolls
-- 14 elves, part of the performance troupe ”The Calm Cacti“ (or maybe they have just a bad timing).
+- 14 elves, part of the performance troupe ”The Calm Cacti“ (or maybe they just have a bad timing).
 
 ![The intruding goblins and trolls](img/year-04/09-goblins.png They are quite fast on their beak dogs)
 
@@ -151,7 +151,7 @@ The elves brought a frickin' grizzly bear! If they bring another one next year, 
 
 The new burial cave is dug out, the coffins are placed as I write this. They are below our living quarters. This is also where I will place our temples. Oh, did I mention we have no hospital yet? I recently replaced our chief medical dwarf with someone more experienced, but that does not help if there is no hospital.
 
-![The burial cave and the designated temple](img/year-04/10-graves-and-tempel.png)
+![The burial cave and the designated temple](img/year-04/10-graves-and-temple.png)
 
 ### 23rd Granite, 253
 
