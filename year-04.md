@@ -121,7 +121,7 @@ From various reports I gathered an approximate number of enemies:
 - 10 trolls
 - 14 elves, part of the performance troupe ”The Calm Cacti“ (or maybe they just have a bad timing).
 
-![The intruding goblins and trolls](img/year-04/09-goblins.png They are quite fast on their beak dogs)
+![The intruding goblins and trolls](img/year-04/09-goblins.png "They are quite fast on their beak dogs")
 
 Right now, we can hear the agonizing sound of our livestock and pets being killed. Why were the pigs outside anyways? They don't even need the grass!. I order our miners to dig an undergroun pasture for the next time some goblins arrive.
 
