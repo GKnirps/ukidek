@@ -123,7 +123,7 @@ From various reports I gathered an approximate number of enemies:
 
 ![The intruding goblins and trolls](img/year-04/09-goblins.png "They are quite fast on their beak dogs")
 
-Right now, we can hear the agonizing sound of our livestock and pets being killed. Why were the pigs outside anyways? They don't even need the grass!. I order our miners to dig an undergroun pasture for the next time some goblins arrive.
+Right now, we can hear the agonizing sound of our livestock and pets being killed. Why were the pigs outside anyways? They don't even need the grass!. I order our miners to dig an underground pasture for the next time some goblins arrive.
 
 Oh, and I also orderd Lolor's bedroom to be walled off. It still had a hole in the ceiling, leading outside. The problem with the workshops outside solved itself, by the way. The trolls destroyed them.
 
@@ -194,7 +194,7 @@ We breached the third cavern layer. And it's got a magma pool. This means we don
 
 ![A cavern with a partially visible magma pool](img/year-04/16-third-cavern.png "There is even some garnierite!")
 
-And even better! Gusto told me they found adamantine in that cavern! This is stuff of legends! I will wait befor mining it though. It is only worth to be processed by the most legendary smiths.
+And even better! Gusto told me they found adamantine in that cavern! This is stuff of legends! I will wait before mining it though. It is only worth to be processed by the most legendary smiths.
 
 ![Raw adamantine! Praise the miners!](img/year-04/17-raw-adamantine.png "Let's dig deeper.")
 
@@ -223,7 +223,7 @@ Holy Lêgan!
 
 > The king is dead, long live the queen!
 
-I should *really* read those memos on time. King Fikodkadôl was killed in an elven attack in the early summer of 250, only three month after he sent me to found Dinnerbrains. His eldest daughter, Bëmbul Boatsholy became queen after him.
+I should *really* read those memos on time. King Fikodkadôl was killed in an elven attack in the early summer of 250, only three months after he sent me to found Dinnerbrains. His eldest daughter, Bëmbul Boatsholy became queen after him.
 
 The king was twenty years younger than me. I am suddenly very happy that I am not in Bridgehill anymore.
 
@@ -250,3 +250,183 @@ The second and third cavern layers are now completely separated from our stairca
 Our booze stock has been quadrupled since the start of the year. We now have about 160 servings of booze, which is not much, but we are on the right way. We also have more different kind of drinks, which is a nice change.
 
 ![Eight different kinds of alcoholic beverages](img/year-04/21-booze-variety.png)
+
+### 16th Felsite, 253
+
+Aban, the baron of Machineflashed mandated the construction of two animal traps. What the hell do we need animal traps for? Catching vermin? They are completely useless. And I bet we can't even sell them, because he will impose an export ban on them once they are made.
+
+### 25 Felsite, 253
+
+I was just writing some work orders to get some magma safe flood gates, mechanisms and stone blocks made, when Chance, the previous Overseer. By Lêgan, he looked horrible. Since we are lacking a hospital, his right hand has not healed correct. The nose is a lost case anyways. I assumed he wanted to talk to me about opening a hospital, but instead he told me about his idea for a pump stack to pump magma to one of the upper layers, so we don't have to walk deep down for our forges and smelters.
+
+![His right hand is mangled beyond recognition. His nose is gone.](img/year-04/22-chance-wounds.png "We can rebuild him.")
+
+An intriguing thought. I called our engineers and asked for their opinions. They seemed happy about it. Called it a really cool project which they really want to do.
+
+My usual translation from engineer-talk like this is: It is dangerous, costs more than it benefits, will take forever and will probably fail spectacularly and kill us all. I decided to postpone this experiment indefinitely.
+
+### 28th Felsite, 253
+
+While the stone detailers are busy smoothing my quarters, the miners are busy digging out more rooms and a hospital and the engineers are busy figuring out how to safely provide the forges with magma, I decided to put an end to the captured goblins. The original concept of using them as undead archery targets never really worked out. And now they have literally gone mad.
+
+Two of them are running around with foam coming out of their mouths, willing to attack anyone without any thought of self perservation. One runs around babbling, completely out of his mind. Another one is stricken by melancholy and does not do anything anymore. Only one of them seems to somewhat same, but is throwing an tantrum right now.
+
+
+### 1st Hematite, 253
+
+The fight was short and gory. Our soldiers entered the room and made short work of this mess of former goblin soldiers. The necromancer did not try anything. Chance suspected he was unable to properly see them through two rows of fortifications. I plan to re-cage the necromancer later so we can make some other experiments with undead as archery targets later.
+
+![Blood, vomit, some soldiers and mutilated goblin corpses](img/year-04/23-gore.png "I am SO happy I am not part of the cleanup crew.")
+
+### 9th Hematite, 253
+
+èzum Taddumat, a fish dissector withdrawed from society today. He is a novice stone detailer and a novice blacksmith. While I hope he will go in the blacksmith direction, he will probably try something with stones, since we have not forges yet. And no metal bars, besides one gold bar which we bought from a caravan.
+
+### 10th Hematite, 253
+
+A human caravan from Gil Bepa has arrived. Let's see what those long people brought us. I hope we have enough stone crafts now, so we don't need to sell any more food.
+
+I am kind of busy because I am sorting my list of what we can sell, but… why do we have a barrel of cougar blood? Apparently, I bought it. I need to drink more alcohol. Being sober makes me stupid.
+
+Oh, an èzum has claimed a craftsdwarf's workshop. The mussel one reserved for bone carving. I guess we won't get more mussel shell decorations before he finished whatever he is up to.
+
+### 11th Hematite, 253
+
+A human diplomat has arrived as well. It is Okgush Rinlasod, their law-giver as well. Still, he has to wait until I finished trading.
+
+Oh, and the hospital has been dug out. I will add a sketch of it here once the furniture has been placed.
+
+### 14th Hematite, 253
+
+Okgush convinced me to meet him right away. He mostly talked about the war they have the Familial Wisps, the elves that are still friendly to us and sold us the grizzly bear earlier this year. The rest was small talk. It was a bit embarassing that we had to meet in my old office, but my new throne room is not furnished yet. But now… let's go shopping.
+
+### 15th Hemamtite, 253
+
+I bought some common and precious cut gems, some bars of metal of different kinds, some alcoholic beverages (we are still low on alcohol). I decided to not buy more animals, because our underground pastures are rather small at this time.
+
+I also bought many bins of cloth or leather. We do not produce cloth at all and leather only in an insignificant amount. We may need it though. If I want to get a glass industry running, we need to collect sand in bags. The few bags we have are not even sufficient for our threshers to but our quarry bush leaves in.
+
+We are now out of stone crafts and had to throw in a few barrels of prepared meals as well. However, once we have a potter and a glasmaker, we will have more than enough useless crap to sell.
+
+Oh, and the hospital is furnished. The walls are still rough, but we will fix this in time. For now, are least Chance's hand can be treated. His dedication to duty is admirable. If my hand was crushed when I was an overseer, the first thing I would have done is to mandate the construction of a hospital. He ran around with this gruesome wound for several months.
+
+Let's just hope the unsanitary conditions in the hospital won't give him an infection. Right now, we don't even have soap.
+
+![The hospital close to some bedrooms](img/year-04/24-hospital.png)
+
+### 16th Hematite, 253
+
+I bought some thread from the humans after Rigòth, our chief medical dwarf complained that he can't suture Chance's wound without thread. I also bought some cheese and some plants so we can replace the food we sold to the humans.
+
+èmuz has not started working yet. He scribbles the pictures of rough gems, skeletons, a quarry, leather and cloth on the walls of the workshop. I guess he still needs material. We have all of that material except bones. Maybe I can get a butcher to disassemble the elephant skeleton that the goblins left outside. If not, we need to slaughter one of our other animals.
+
+### 18th Hematite, 253
+
+I ordered a boar to be slaughtered.
+
+### 20th Hematite, 253
+
+Chance's hand wound has been sutured and dressed. Unfortunately, his hand was infected. I hope he will pull through. In any case, we need some soap. Once the forges ar build, I will put a side focus to soap production. For the record, here is the report from our chief medical dwarf about Chance's wounds:
+
+![The health history of Chance](img/year-04/25-chance-medical-history.png)
+![Chance has a smashed bone and an infection in his right hand](img/year-04/26-chance-infection.png)
+
+### 21st Hematite, 253
+
+Since I'm trying to build a sealable entrance to the third cavern layer to breach the magma pool and supply our forges with magma, our miners are only working some of their time. To better use their abilities, I let them start digging out some rooms for a potential royal visit.
+
+In contrast to my original plans, I did not designate the royal quarters below my quarters. Instead, I am building them in the marble layers. This has two advantages:
+1. the royal quarters are made of marble and therefore worth more than our mudstone quarters
+2. we need marble anyways, since we can use it as flux material for steel production
+
+![A designation to dig inside a marble layer](img/year-04/27-royal-quarter-designation.png)
+
+### 24th Hematite
+
+èzum Taddumat has started working on his big project. The materials he has are mudstone, two jet rocks, yak cow bone, giant cave spider silk, boar bone, harlequin opals, cat leather, more harlequin opals and koala leather. I' curious.
+
+### 25th Hematite, 253
+
+![Kadol Zanosmûthkat, Mechanic has been found dead, completely drained of blood!](img/year-04/28-kadol-drained.png)
+
+Oh crap. It seems we have a vampire among us. When Kadol did not appeared to work today, someone looked in his room and found him drained of blood. Kadol was a good friend of mine, one of guys I brought along when I was sent to found this fortress. Even worse, he was our only architect. How can we build our security bridges without him?
+
+We have to find the vampire and bring them to justice. Unfortunately, we don't even have a jail yet.
+
+I appointed Likot, another Mechanic to be our new architect. Better than nothing.
+
+### 28th Hematite, 253
+
+èzum finished his artifact:
+
+![A detailed description of an artifact](img/year-04/29-erithudil.png "Menacing spikes of silk?")
+
+He claimed it as family heirloom, but he will probably accept if we display this work in a temple of Nanir (once we have one).
+
+Still no clue who the vampire is.
+
+### 9th Malachite, 253
+
+A migrant has arrived. A single one. But he is a high master suturer and wound dresser and most importantly: an architect.
+
+### 13th Malachite, 253
+
+Our booze stock is shrinking again. I decided to streamline the process. Right now, we don't have a dedicated stockpile for ra materials for cooking or brewing. I will change that. I will also set up a stockpile for empty pots and barrels, as well as a larder for prepared meals and beverages.
+
+### 14th Malachite, 253
+
+Our first batch 30 portions of charcoal has been finished. I will set up an order to produce charcoal whenever we have less than 60 units of refined fuel and at least 60 wood logs.
+
+I also ordered to make some ash, the first step to make soap.
+
+### 17th Malachite, 253
+
+The bridge to lock off the third cavern layer has been built. It is a retracting bridge that blocks the cavern if the bridge is not retracted. It will be connected to a lever in the north-west of our dining hall.
+
+![The dining hall with a lever in the north-east corner](img/year-04/30-cavern-lever.png "The lever to open the 3rd cavern layer")
+![A staircase, a bridge and some unfinished traps](img/year-04/31-cavern-bridge.png "I also ordered some traps to be built")
+
+### 23rd Malachite, 253
+
+I designated tombs for Gusto and Chance. Former overseers deserve a dedicated burial place. I also ordered the construction of some marble statues of all former and present overseers.
+
+### 27th Malachite, 253
+
+My new quarters are finally furnitured and smoothed. So are Aban's quarters. He still wants those animal traps to be made though. He shouldn't even have the right to mandate productions. Anyways, our carpenter has neglected to make the animal traps so far.
+
+### 6th Galena, 253
+
+We breached the third cavern layer for the second time. I ordered the militia to watch out for threats. There are some interesting-looking giant fungi down there. I ordered some of them to be cut down. Better than this boring above-ground wood.
+
+The next steps are to build some walls to direct the magma to where we want it and channel into the wall of the magma pool.
+
+![Ramps up to the fortress and a magma pool](img/year-04/33-magma-pool-full.png "The blood of the earth")
+
+### 17th Galena, 253
+
+The blood of the earth is flowing. Before I flood the tubes below our forges, here are some schematics how the tubes work:
+
+![Empty tubes with a floodgate in the west and a floodgate in the east that blocks the magma flow](img/year-04/34-magma-tubes.png "The veins for the blood of the earth")
+![The smelters and forges, some stockpiles and two levers besides the staircase](img/year-04/35-forges.png)
+
+There are two floodgates to the magma tubes. The one in the east is for flooding the magma tubes, the one in the west is for draining them. In the layer above are the forges. North and south of the staircase are labelled levers to controll those floodgates.
+
+Thats enough talking. Let the magma flow!
+
+### 21st Galena, 253
+
+The magma is slowly flowing through the tubes. Soon we can start a proper metal industry.
+
+Oh, and we caught some elk birds in the third cavern layer. Maybe we can train and breed them.
+
+![Some caged elk birds and some uncaged elk birds](img/year-04/36-elk-birds.png "Finally a normal creature.")
+
+### 27th Galena, 253
+
+The magma forges and smelters are now supplied with magma. Right now, we only have one furnace operator, so I told one recently grown up peasant to learn furnace operating. Another recently grown up peasant gets to become the our weapon smith. If we have to train a weapon smith, we may as well train someone who has a lot time to live.
+
+### 4th Limestone, 253
+
+While waiting for the metal industry to take off, I started preparing some stuff for our glass and ceramics production. I dug out two rooms to collect sand and clay, another room for the workshops with the tools for collection and a new area for leather and cloth processing. I already ordered to make some bags for collecting sand.
+
+Now I only need a potter and a glassmaker. I already have someone in mind as potter, but for glassmaking… well, where is my lit of citizens? Eeny, meeny, miny, moe…
