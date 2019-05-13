@@ -257,7 +257,7 @@ Aban, the baron of Machineflashed mandated the construction of two animal traps.
 
 ### 25 Felsite, 253
 
-I was just writing some work orders to get some magma safe flood gates, mechanisms and stone blocks made, when Chance, the previous Overseer. By Lêgan, he looked horrible. Since we are lacking a hospital, his right hand has not healed correct. The nose is a lost case anyways. I assumed he wanted to talk to me about opening a hospital, but instead he told me about his idea for a pump stack to pump magma to one of the upper layers, so we don't have to walk deep down for our forges and smelters.
+I was just writing some work orders to get some magma safe flood gates, mechanisms and stone blocks made, when Chance, the previous Overseer, dropped in. By Lêgan, he looked horrible. Since we are lacking a hospital, his right hand has not healed correct. The nose is a lost case anyways. I assumed he wanted to talk to me about opening a hospital, but instead he told me about his idea for a pump stack to pump magma to one of the upper layers, so we don't have to walk deep down for our forges and smelters.
 
 ![His right hand is mangled beyond recognition. His nose is gone.](img/year-04/22-chance-wounds.png "We can rebuild him.")
 
@@ -304,7 +304,7 @@ Okgush convinced me to meet him right away. He mostly talked about the war they 
 
 I bought some common and precious cut gems, some bars of metal of different kinds, some alcoholic beverages (we are still low on alcohol). I decided to not buy more animals, because our underground pastures are rather small at this time.
 
-I also bought many bins of cloth or leather. We do not produce cloth at all and leather only in an insignificant amount. We may need it though. If I want to get a glass industry running, we need to collect sand in bags. The few bags we have are not even sufficient for our threshers to but our quarry bush leaves in.
+I also bought many bins of cloth and leather. We do not produce cloth at all and leather only in an insignificant amount. We may need it though. If I want to get a glass industry running, we need to collect sand in bags. The few bags we have are not even sufficient for our threshers to but our quarry bush leaves in.
 
 We are now out of stone crafts and had to throw in a few barrels of prepared meals as well. However, once we have a potter and a glasmaker, we will have more than enough useless crap to sell.
 
@@ -349,7 +349,7 @@ In contrast to my original plans, I did not designate the royal quarters below m
 
 ![Kadol Zanosmûthkat, Mechanic has been found dead, completely drained of blood!](img/year-04/28-kadol-drained.png)
 
-Oh crap. It seems we have a vampire among us. When Kadol did not appeared to work today, someone looked in his room and found him drained of blood. Kadol was a good friend of mine, one of guys I brought along when I was sent to found this fortress. Even worse, he was our only architect. How can we build our security bridges without him?
+Oh carp. It seems we have a vampire among us. When Kadol did not appeared to work today, someone looked in his room and found him drained of blood. Kadol was a good friend of mine, one of guys I brought along when I was sent to found this fortress. Even worse, he was our only architect. How can we build our security bridges without him?
 
 We have to find the vampire and bring them to justice. Unfortunately, we don't even have a jail yet.
 
