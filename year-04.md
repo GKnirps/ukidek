@@ -429,7 +429,7 @@ The magma forges and smelters are now supplied with magma. Right now, we only ha
 
 While waiting for the metal industry to take off, I started preparing some stuff for our glass and ceramics production. I dug out two rooms to collect sand and clay, another room for the workshops with the tools for collection and a new area for leather and cloth processing. I already ordered to make some bags for collecting sand.
 
-Now I only need a potter and a glassmaker. I already have someone in mind as potter, but for glassmaking… well, where is my lit of citizens? Eeny, meeny, miny, moe…
+Now I only need a potter and a glassmaker. I already have someone in mind as potter, but for glassmaking… well, where is my list of citizens? Eeny, meeny, miny, moe…
 
 ### 5th Limestone, 253
 
@@ -457,7 +457,7 @@ Now she destroyed a cage trap. Thank you for destroying our fortress' defenses!
 
 ### 17th Limestone, 253
 
-I made my assistant the new fortress broker. ”Urist“, I said, ”I have an important meeting with the outpost liaison. I herby declare you to be our new broker.“ Her answer was that she was not named Urist.
+I made my assistant the new fortress broker. ”Urist“, I said, ”I have an important meeting with the outpost liaison. I hereby declare you to be our new broker.“ Her answer was that she was not named Urist.
 
 Anyways, she made some good deals at the depot, bought lots of alcoholic beverages, leather and cloth, as well as some metals that are rare around here and some precious gems.
 
@@ -502,7 +502,7 @@ The murder of Etur Sodelukosh has no less than 77 witnesses, all pointing to Tos
 
 ### 10th Sandstone, 253
 
-Tosid got over four hundred days of prison sentence. This means that it is up to my successor to decide what to do with him once he gets free. I suggest ordering a raid on the necromancer's tower. I heard zombies don't attack vampires. Maybe we can steal some of the necromancer's books.
+Tosid got over four hundred days of prison sentence. This means that it is up to my successor to decide what to do with her once she gets free. I suggest ordering a raid on the necromancer's tower. I heard zombies don't attack vampires. Maybe we can steal some of the necromancer's books.
 
 ### 11th Sandstone, 253
 
@@ -544,17 +544,17 @@ I also started the street project and set up some walls around our entrance. Thi
 
 We also have a new holding. One step further on my way to be a duke.
 
-![The hillocks of Notchedflags has been founded nearly a day's travel to the east and incorporated into your holdings.](img(year-04/46-notchedflags.png)
+![The hillocks of Notchedflags has been founded nearly a day's travel to the east and incorporated into your holdings.](img/year-04/46-notchedflags.png)
 
 ### 13th Timber, 253
 
-Monom Stinthäddeleth, our twelve-year-old weaponssmith is learning fast. She is still only an adequate weaponsmith, but she already managed to make to exceptional copper bolts. Most of her work so far is well or even finely crafted. I decided to let her try to make some weapons. I ordered five of every kind of spears, battle axes, short swords, maces and war hammers. Our current equipment is mostly of regular quality (we have weapons of that kind at all), so having some well-crafted weapons is definitely a step up.
+Monom Stinthäddeleth, our twelve-year-old weaponssmith is learning fast. She is still only an adequate weaponsmith, but she already managed to make to exceptional copper bolts. Most of her work so far is well or even finely crafted. I decided to let her try to make some weapons. I ordered five of every kind of spears, battle axes, short swords, maces and war hammers. Our current equipment is mostly of regular quality (if we have weapons of that kind at all), so having some well-crafted weapons is definitely a step up.
 
 I don't let her use steel yet (we don't have much steel yet, so what we have is given to our legendary armorsmith to make exceptional armor out of it), so I told her to use regular iron for the spears, axes and short swords. For the maces and war hammers, I told her to use silver, which we have as a byproduct of our copper production. Silver may not be good for edged weapons, but for hammers and maces the additional weight should only benefit to their usefulness.
 
 Unrelated to this, I just got a note from our captain of the guard:
 
-![Tosid Ensebgusil, militia captain is stumbling around obliviously!](img/year-04/47-tosid-oblivious.png "He'll be fine")
+![Tosid Ensebgusil, militia captain is stumbling around obliviously!](img/year-04/47-tosid-oblivious.png "She'll be fine")
 
 She still has 369 days of prison time to serve for her murders. There is a betting pool of whether she will go stark raving mad before she gets free. Normally I would forbid such tactless bets, but I am still angry over the death of Kadol, so I will turn a blind eye on this.
 
@@ -570,7 +570,7 @@ I am not quite content with my rooms right now. They seem a little bland, not wo
 
 ### 27th Timber, 253
 
-![Amost Lenshamalåth, Mason is taken by a fey mood!](img/48-amost-fey-mood.png)
+![Amost Lenshamalåth, Mason is taken by a fey mood!](img/year-04/48-amost-fey-mood.png)
 
 Amost is our high master mason. She is second only to the legendary mason Ingish Etestathel. She is also 159 years old, which is a proud age for a dwarf.
 
@@ -651,3 +651,5 @@ Apparently our resident vampire has lost it. Maybe she could not live with the g
 ![Tosid Ensebgusil has been overthrown by the stresses of day-to-day living.](img/year-04/60-tosid-stress.png "She was horrified killing my friend")
 
 In any case: What do we do with her? Officially, she still needs to serve over a year in the prison. But after that? We don't have an asylum. Usually dwarves that go insane just die after a while because they refuse to eat. But Tosid is a vampire. She does not need to eat or drink. I doubt she even needs the blood to continue existing.
+
+And damn, I lost my bet.
