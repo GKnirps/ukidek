@@ -430,3 +430,224 @@ The magma forges and smelters are now supplied with magma. Right now, we only ha
 While waiting for the metal industry to take off, I started preparing some stuff for our glass and ceramics production. I dug out two rooms to collect sand and clay, another room for the workshops with the tools for collection and a new area for leather and cloth processing. I already ordered to make some bags for collecting sand.
 
 Now I only need a potter and a glassmaker. I already have someone in mind as potter, but for glassmaking… well, where is my lit of citizens? Eeny, meeny, miny, moe…
+
+### 5th Limestone, 253
+
+I ordered some copper bolts to be made. Good training for our dabbling weaponsmith.
+
+### 10th Limestone, 253
+
+I cancelled the production order for the animal traps. It just blocked the carpentry. Maybe our carpenter can now _finally_ make some bins. The metal production is running, and we really need some bins for the metal bars. And for other things.
+
+Maybe I someone can make metal animal traps.
+
+### 12th Limestone, 253
+
+The outpost liaison and the caravan from the mountainhomes have arrived. Again I have to both have a meeting and trade at the depot at the same time. Maybe I should promote my assistant to the position of the broker.
+
+The caravan comes from the north, which means the have to navigate though the forest. I am thinking of building a road. Any self-respecting fortress should have a safe road up to their gates.
+
+I just hope we have enough stone crafts since neither our pottery nor out glass industry has started yet. Due to the problem with our carpenter that I mentioned before, we even ran out of cages.
+
+### 15th Limestone, 253
+
+Stukos Dorengatiz is throwing a tantrum. Great work, Stukos, embarassing me in front of the outpost liaison.
+
+Now she destroyed a cage trap. Thank you for destroying our fortress' defenses!
+
+### 17th Limestone, 253
+
+I made my assistant the new fortress broker. ”Urist“, I said, ”I have an important meeting with the outpost liaison. I herby declare you to be our new broker.“ Her answer was that she was not named Urist.
+
+Anyways, she made some good deals at the depot, bought lots of alcoholic beverages, leather and cloth, as well as some metals that are rare around here and some precious gems.
+
+### 22nd Limestome, 253
+
+News from the outpost liaison. Some rumours about the war, and I will be recommended to be a count. I ordered some precious gems, drinks (in case our production continues to stay low), some rare types of leather, silk and some ores that we have not found here yet, and coal.
+
+On the other hand, they offer us higher prices for several goods, but most importantly amulets and crowns, which we can produce en masse.
+
+After the meeting we made a short tour through the fortress, where I demonstrated our progress. That is where she dropped the bronze colossus: ”Oh, by the way: the queen may or may not visit you next year. You better have some quarters prepared for her.“ Great.
+
+### 24th Limestone, 253
+
+I added another romm to our inn. Here is a sketch, just before it is fully smoothed out and filled with people:
+
+![Two dining halls, the southern one is partially furnished and mostly empty, the southern one is full with people](img/year-04/37-dining-halls.png)
+
+### 27th Limestone, 253
+
+The vampire has struck again.
+
+![Etur Sodelukosh, Poet has been found dead, completely drained of blood!](img/year-04/38-poet-drained.png "I did not like his poetry either, but this is a bit too much.")
+
+This time however, the vampire was not really smart. Due to lack of rentable rooms in our inn, the poet slept on the floor of the inn. The inn that is overcrowded all the time. That was where the vampire attacked.
+
+![A list of witnesses that accuse Tosid Ensebgusil of murder](img/year-04/39-accusations.png "I think the case is clear")
+
+Tosid Ensebgusil, militia captain of a squad that contains only one fighter (after the other one became a legendary stone detailer due to a mood). Now we have a problem. We have no jail. Sazir, the captain of the guard constantly reminds me of it and is quite frustrated right now.
+
+I ordered some chains to be made, but neither the chains nor the frickin' animal traps have been forged so far. We also need a jail for a few days of jail time for Stukos who vandalized a trap earlier. Do we still have ropes? Maybe we can use ropes instead of chains for now.
+
+Update: we have no ropes. An iron chain however is forged just as we speak. Mebzuth, the metalcrafter in training is just a bit confused by the bards who just made a polonaise through our smelters:
+
+![Bards performing a polonaise through our smelters and forges](img/year-04/40-bard-polonaise.png "I am not making this up.")
+
+### 4th Sandstone, 253
+
+I cancelled the animal trap work order. Apparently, no one besides the baron of Machineflashed wants any animal traps. Anyone who is capable of making one does not want to make them. We soon have a prison, then Aban can imprison anyone for not making two animal traps. See if I care!
+
+### 6th Sandstone, 253
+The murder of Etur Sodelukosh has no less than 77 witnesses, all pointing to Tosid. I think that is enough to throw her into jail, and I can be reasonably sure that she also killed my friend Kadol.
+
+### 10th Sandstone, 253
+
+Tosid got over four hundred days of prison sentence. This means that it is up to my successor to decide what to do with him once he gets free. I suggest ordering a raid on the necromancer's tower. I heard zombies don't attack vampires. Maybe we can steal some of the necromancer's books.
+
+### 11th Sandstone, 253
+
+Tosid is in prison now. I locked the door as extra security measure. Once her sentenced is served, my successor should unlock the door again.
+
+I also made a sketch of the prison area:
+
+![Several rooms, three of them have chains, one of them contains a confined dwarf](img/year-04/41-prison.png "We need more cells. Our captain of the guard wants at least 20.")
+
+### 14th Sandstone, 253
+
+Aban Momuzdeduk's work order for animal traps ended up unfinished. Aban reacted to this by throwing Lolor Avuzdeler, our legendary Stonecrafter, into jail for 51 days. You know, the one who makes all of our trading stuff? Who only works with rocks and has no experience in making things (like animal traps) with wood or metals. Aban is becoming a serious pain in the ass.
+
+### 18th Sandstone, 253
+
+The Sand and clay collecting has begun. We now have two regular kilns and two regular glass furnaces for the sole purpose of collecting raw material for our potter and our glass maker. The rooms above are for collecting clay and sand.
+
+But… how to make sure we always have access to the sand and the clay? The vegetation grows rather fast. Then inspiration struck: We have elephants and elk birds. Those need to graze. If we train them and let them graze in the sand and clay rooms, they keep the vegetation down. That way we can kill two birds with one stone.
+
+![Two glass furnaces, two kilns and some stockpiles with bags, sand bags and clay](img/year-04/42-collection-room.png)
+![A room with a clay floor, some elk birds and a dwarf collecting clay](img/year-04/43-clay-area.png "It's not dirt. It's raw material for valuable ceramic goods")
+![A room with a sand floor and a sand bag](img/year-04/44-sand-area.png "The elephants are not trained yet")
+
+À propos killing birds: I will order some armor soon. Our soldiers trained the whole year. Since we had no other weapons, most of them are now axe fighters that fight with the axes we have for cutting wood. I will build a sealable entrance to cave layer one, where we can finally kill that forgotten beast. This project should be done by winter.
+
+### 1st Timber, 253
+
+I set up some traps and re-caged the necromancer. I don't know if I can rebuild the undead-training program but if not, my successor may do it.
+
+### 3rd Timber, 253
+
+Our fighters have been underground for several years now. This may be a problem when we face an outside threat. The solution: The Burials of Laboring, our melee squad now guards the entrance every second month. The other time, they are scheduled to train.
+
+They have been outside for two days now, and the cave adaption sickness has kicked in. I'm pretty sure they all hate me now, but they will thank me later.
+
+I also started the street project and set up some walls around our entrance. This is the first step to a representable building as entrance, not just the hole in the ground we have now.
+
+![The entrance, enclosed with mudstone brick walls and some vomiting dwarves](img/year-04/45-guards.png "To be fair, most of the vomit comes from the dwarves that constructed the walls and our fishers.")
+
+We also have a new holding. One step further on my way to be a duke.
+
+![The hillocks of Notchedflags has been founded nearly a day's travel to the east and incorporated into your holdings.](img(year-04/46-notchedflags.png)
+
+### 13th Timber, 253
+
+Monom Stinthäddeleth, our twelve-year-old weaponssmith is learning fast. She is still only an adequate weaponsmith, but she already managed to make to exceptional copper bolts. Most of her work so far is well or even finely crafted. I decided to let her try to make some weapons. I ordered five of every kind of spears, battle axes, short swords, maces and war hammers. Our current equipment is mostly of regular quality (we have weapons of that kind at all), so having some well-crafted weapons is definitely a step up.
+
+I don't let her use steel yet (we don't have much steel yet, so what we have is given to our legendary armorsmith to make exceptional armor out of it), so I told her to use regular iron for the spears, axes and short swords. For the maces and war hammers, I told her to use silver, which we have as a byproduct of our copper production. Silver may not be good for edged weapons, but for hammers and maces the additional weight should only benefit to their usefulness.
+
+Unrelated to this, I just got a note from our captain of the guard:
+
+![Tosid Ensebgusil, militia captain is stumbling around obliviously!](img/year-04/47-tosid-oblivious.png "He'll be fine")
+
+She still has 369 days of prison time to serve for her murders. There is a betting pool of whether she will go stark raving mad before she gets free. Normally I would forbid such tactless bets, but I am still angry over the death of Kadol, so I will turn a blind eye on this.
+
+We also caught some rutherers which may be a great addition to our livestock. We should make sure that our animal trainers keep up with the task. To my successor: Make sure our animal trainers are alive and healthy. Especially Lolor and Rakust are assigned to specific animals. If anything happens to them, make sure to assign some other trainer to their animals, otherwise it is only a matter of time before we are overrun by elk birds, elephants, dingoes and rutherers.
+
+### 16th Timber, 253
+
+I set an export ban on mail shirts. We can't afford to export any armor. Not-Urist told me we don't even have any mail shirts to export. I think this only proves my point. We don't have any mail shirts, so we must avoid exporting them at all cost!
+
+### 24th Timber, 253
+
+I am not quite content with my rooms right now. They seem a little bland, not worthy of a count. I told our two best engravers to engrave all my rooms. I even let them choose what images they want to engrave. Mostly because I have better things to do than to play interior designer.
+
+### 27th Timber, 253
+
+![Amost Lenshamalåth, Mason is taken by a fey mood!](img/48-amost-fey-mood.png)
+
+Amost is our high master mason. She is second only to the legendary mason Ingish Etestathel. She is also 159 years old, which is a proud age for a dwarf.
+
+### 3rd Moonstone, 253
+
+I sent our squad of marksdwarves, the Silvery Wines out to a reconaissance mission to the necromancer tower of Hipnourish. The necromancers have tried to attack us so many times, we need a way to strike back. The squad's orders are to scout the area, avoid detection and (if possible) steal some of their books that might reveal useful information about the tower.
+
+### 5th Moonstone, 253
+
+Some magma crabs came out of the magma pool and started attacking dwarves in the cavern. Unib Dastotathel, a hauler with some medical training, is their first target. Unib is without any battle equipment or training. So far, he seems to be able to defend himself, but I have to send down our fighters to destroy those dangerous beasts.
+
+![Some magma crabs and Unib the dwarf](img/year-04/49-unib-and-magma-crabs.png "O crab!")
+![Unib wrestles a magma crab](img/year-04/50-unib-vs-magma-crab.png "Not bad for someone without any battle experience at all.")
+
+Unib actually managed to escape, even breaking one of the magma crabs' body. Those magma crabs are actually rather small. I heard rumours that they were able to spit molten rock though, so we should be careful. The fighters are on their way.
+
+Sodel, our legendary clothier on the other hand charged in and killed one of the magma crabs.
+
+### 7th Moonstone, 253
+
+Our fighters had no problem fighting the magma crabs. Unfortunately, one of them managed to the the moss in the third cavern layer on fire. We should probably retreat from there, a cavern fire is much more dangerous than some magma crabs.
+
+![Dead magma crabs, fighters, fire and smoke](img/year-04/51-cave-burning.png)
+
+And dammit, we even captured one magma crab in our cage traps, but the wooden cage will probably burn in the fire. On the other hand, magma crabs are basically useless anyways, so this is only a minor setback.
+
+Someone said they saw Stukos Dorengatiz, who threw a trantrum earlier this year, attacking a magma crab in the middle of the fire, burning to death. Her last words were:
+
+![I was caught in smoke underground. No, that's not annoying.](img/year-04/52-stukos-last-words.png "She always loved sarcasm.")
+
+Since there will probably not much left of her after the fire, I ordered a memorial slab for her, so her friends and family have a place to remember her. I think the Insightful Shrine, the temple of the Mighty Talons, our death god will be a good place for that slab.
+
+Addendum: The third cavern layer is sealed off. As far as I can tell, everyone (well, except Stukos) managed to get out of the cavern before we sealed it. We can now let the fire burn until it goes out on its own.
+
+### 8th Moonstone, 253
+
+![Amost Lenshamalåth, Mason has created Gébardolek Nish Zutthan, a slate cabinet!](img/year-04/53-artifact-cabinet.png)
+
+Amost claimed the artifact as personal treasure. Fine, but I will borrow it for the royal bedroom.
+
+![A description of the legendary cabinet](img/year-04/54-artifact-description.png)
+
+As always for artifacts like this, I could lose myself in them. The incredibly detailed scenes of the Squeezing Clash in slade and leather are a thing for itself, but what impresses me most is a detailed image of the cabinet itself on the cabinet. The image even includes the image of the cabinet. It's cabinets all the way down!
+
+### 10th Moonstone, 253
+
+The Silvery Wines returned from their mission. I don't know if I should be angry or euphoric. On the one hand Cerol (the captain of the squad) blatantly ignored my order to try to be undetected. On the other hand she outsmarted the necromancers' tactitian, but on the other hand they killed no less than seven necromancers and many undead abominations. All without a single fallen fighter. This is their official report:
+
+![Part 1/2 of a lengthy mission report](img/year-04/55-raid-report-1.png) 
+![Part 2/2 of a lengthy mission report](img/year-04/56-raid-report-2.png)
+
+They did not bring any of the necromancers' books. Since we have proven that we can beat them without knowing more about their powers means we don't need those books, so I guess we're fine.
+
+To celebrate this victory, I ordered one of the dingoes and one of the elk birds to be slaughtered. This will be a feast!
+
+### 12th Moonstone, 253
+
+The memorial slab for Stukos was engraved. I am a bit disappointed by the description of Stukos' death:
+
+![In memory of Stukos Dorengatiz / Borin 232 / Bled to death, slain by the dwarf Sazir Wireash in the year 253](img/year-04/57-stukos-memorial.png)
+
+To make it entirely clear: Stukos _was_ beaten up by our captain of the guard, which is the usual punishment for vandalism if there is no way to imprison the offender. At the point Stukos was found guilty, we only had one prison cell that was already occupied with a vampire. That was three months ago. Stukos died in a fire after killing a magma crab. I will not let slander defile the reputation of our captain of the guard, neither will I let the memory of Stukos be tainted by the idea she was executed instead of fighting for our fortress.
+
+That said, I will place this slab in the temple. It is still a nice slab.
+
+### 14th Moonstone, 253
+
+Today was the opening ceremony for our new library. I already bought a few books from the caravans and my successor should do so as well. It is possible that we attract scholars that bring knowledge to our fortress. If not, than we may have at least some interesting books to read.
+
+![the library](img/year-04/58-library.png "Someone told me we need an orang utan.")
+
+### 23rd Moonstone, 253
+
+![Tosid Ensebgusil, Milker has gone stark raving mad!](img/year-04/59-tosid-mad.png "It was inevitable.")
+
+Apparently our resident vampire has lost it. Maybe she could not live with the guilt of murdering innocent dwarves. Maybe the confinement in prison was too much for her.
+
+![Tosid Ensebgusil has been overthrown by the stresses of day-to-day living.](img/year-04/60-tosid-stress.png "She was horrified killing my friend")
+
+In any case: What do we do with her? Officially, she still needs to serve over a year in the prison. But after that? We don't have an asylum. Usually dwarves that go insane just die after a while because they refuse to eat. But Tosid is a vampire. She does not need to eat or drink. I doubt she even needs the blood to continue existing.
