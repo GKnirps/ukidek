@@ -674,7 +674,7 @@ I ordered some rooms to be dug our for our royal guest. I placed the throne room
 
 ### 1st Opal, 253
 
-Since the previous raid on the necromancer tower of Hipnourish was so successful, I set the silvery whines on another mission. The probably destroyed most of the zombies and necromancers last time, so this mission should be relatively easy.
+Since the previous raid on the necromancer tower of Hipnourish was so successful, I set the Silvery Wines on another mission. The probably destroyed most of the zombies and necromancers last time, so this mission should be relatively easy.
 
 Unrelated to that, I noticed that we don't have enough dwarves to haul things around. Since about half of the permanent population of Dinnerbrains won't work (as mentioned before) and those who do work are mostly forbidden to do menial jobs such as hauling (to enable them to concentrate on more important things), our stockpiles of sand, clay, ore and rocks close to the workshops that process them are empty. I don't have time to adress this problem now. Everything will be a bit slower, but it is kind of self-regulating. Empty source stockpiles mean nothing gets produced which in turn means the haulers don't have to haul the finished goods so they can focus on re-filling the source stockpiles.
 
@@ -688,17 +688,17 @@ They left the fortress not above the ground, but underground! That's why the nec
 
 ### 7th Opal, 253
 
-According to Sazir, we finally have enough prison cells for a fortress of our size. Which means he won't ennoy me with this topic anymore.
+According to Sazir, we finally have enough prison cells for a fortress of our size. Which means he won't annoy me with this topic anymore.
 
 The cells still need some furniture, such as beds. I think we can add beds once someone actually gets incarcerated.
 
-![The prison area](img/year-04/63-prison-png)
+![The prison area](img/year-04/63-prison.png)
 
 In Tosid's cell, one can see the preparations for an experiment that I started before Tosid went mad. Since she was a militia captain, I thought she could train in her cell and then be sent out on dangerous missions, so I put some training spears in her cell that are operated by a lever. Since she is not sane enough to fight anymore, this plan won't be completed now.
 
 ### 11th Opal, 253
 
-The Silvery Wines returned. Again the utterly failed at hiding, but in the battle that ensued they killed the remaining two necromancers and the few remaining undead.
+The Silvery Wines returned. Again they utterly failed at hiding, but in the battle that ensued they killed the remaining two necromancers and the few remaining undead.
 
 They brought back several books of varying quality (but apparently, some of them are really good). The books will be put in the library so everyone can study them. Fortunately, none of the books contained knowledge that dwarf was not meant to know. The secrets of life and death should belong only to the gods. Whenever they handed them out to mortals, bad things happened.
 
@@ -728,7 +728,7 @@ I will order a memorial slab for the cyclops so everyone can see what mighty foe
 
 ### 23rd Opal, 253
 
-![The Forgotten Beast Efeye Raniyalafo ÿonali has come! A huge hairy pterosaur. It has a twisting, jointed trunk and it undulates rhythmically. Beware its deadly blood!](img/year-04/65-forgotten-beast.png "Can someone draw this beast for me?")
+![The Forgotten Beast Efeye Raniyalafo ÿonali has come! A huge hairy pterosaur. It has a twisting, jointed trunk and it undulates rhythmically. Beware its deadly blood!](img/year-04/66-forgotten-beast.png "Can someone draw this beast for me?")
 
 A forgotten beast in the third cavern layer! The one that is opened to the rest of the fortress! And the Burials of Laboring are still guarding the entrance to the fort, tired from the sun.
 
@@ -738,7 +738,7 @@ I will set a civilian alert and order all available troops to kill the beast. Ri
 
 ### 24th Opal, 253
 
-Oh carp! The beast got bored of the rutherer and found a hole in the ceiling to our forges and smelters (the hole existed presumably because some large fungus was cut down at that position). Now our most important artisans are in danger. The silvery wines are already close by, so they may have a chance!
+Oh carp! The beast got bored of the rutherer and found a hole in the ceiling to our forges and smelters (the hole existed presumably because some large fungus was cut down at that position). Now our most important artisans are in danger. The Silvery Wines are already close by, so they may have a chance!
 
 The beast attacked Åblel Sashaskivish, a great presser and our fallback-carpenter. The Silvery Wines arrived in time to distract the beast, but Åblel is heavily bleeding and needs medical attention soon, or she will die.
 
@@ -809,12 +809,13 @@ I ordered the production of steel breastplates in the autumn, but the production
 We still have no entrance to the first cavern layer because it took our achitect so long to construct the bridge. The lever to the bridge is labelled with ”1st cavern lever“ and in the northeast of the southern tavern room. It unretracts a bridge.
 
 Be careful when breaching the cavern, a forgotten beast may still there. The Burials of Laboring should be able to deal with the beast though. We haven't heard of the beast for some time, maybe it left.
+
 ![Our inn, with the 1st cavern layer lever in the northeast of the southern room](img/year-04/69-1st-cavern-lever.png)
 ![The path to the first cavern layer](img/year-04/70-1st-cavern-path.png)
 
-My street project was not finished either. The idea was that a caravan's wagons have only one way to reach the trade depot. This would be done by cage traps that are two steps apart so a typical wagon would not fit between them. I run out of mechanisms before I finished that.
+My road project was not finished either. The idea was that a caravan's wagons have only one way to reach the trade depot. This would be done by cage traps that are two steps apart so a typical wagon would not fit between them. I run out of mechanisms before I finished that.
 
-![An unfinished roat with unfinished cage traps](img/year-04/71-road.png)
+![An unfinished roat with unfinished cage traps](img/year-04/71-road.png "I'm on a highway to elves")
 
 I totally neglected the necromancer-weaponizing-plan. I still think this is a promising idea. We should be careful not to kill the necromancers we caught, we killed a significant amount of the world's necromancers, so a replacement could be hard to find.
 
@@ -832,7 +833,7 @@ Oh wait, make that one legendary engraver. The other one just died of old age.
 
 ![The royal throne room and a dead engraver](img/year-04/72-royal-throne-room.png "That is how I found out that the engraver died")
 ![The royal dining room and bedroom](img/year-04/73-royal-quarters.png)
-![The royal mausoleums](img/year-04/74-royal-mausoleum.png "The northern mausoleum is for our queen. The southern one is for the freeloader king.")
+![The royal mausoleums](img/year-04/74-royal-mausoleums.png "The northern mausoleum is for our queen. The southern one is for the freeloader king.")
 
 #### Health
 
