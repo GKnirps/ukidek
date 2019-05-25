@@ -653,3 +653,187 @@ Apparently our resident vampire has lost it. Maybe she could not live with the g
 In any case: What do we do with her? Officially, she still needs to serve over a year in the prison. But after that? We don't have an asylum. Usually dwarves that go insane just die after a while because they refuse to eat. But Tosid is a vampire. She does not need to eat or drink. I doubt she even needs the blood to continue existing.
 
 And damn, I lost my bet.
+
+### 26th Moonstone, 253
+
+![After a polite discussion with local rivals, Atír Roughnesscave has claimed the position of the king of The Lashes of Wishing.](img/year-04/61-atir-king.png)
+
+Our fortress seems to attract nobility from everywhere. Right now, we have a baron of our own civilisation (Aban, the baron of Machineflashed and lover of animal traps), Itlud Sothbite, a human lord of the Nations of Heart, several consorts of nobles from all around the world and now this king from a civilisation I've never heard of before.
+
+I wonder which local rivals he discussed with. In any way, he came here as mercenary and trained with the Burials of Laboring, our militia squad. Now that he claims to be a king, he won't work as mercenary anymore. Instead, he demands to have royal housing. We don't have any rooms fit for royalty yet. The ones that are in preparation are meant for our own queen. I also denied him to be listed as a noble of this fortress. Unlike Aban, Atír is not a member of this civilization, so he has no authority here. On the other hand, we should probably dig out some rooms for him, just for the sake of the relationship between our people.
+
+I have also noticed that our working population is rather small in relation to children and entertainers. We have a population of 213 at the time. 32 of them are children. 67 are entertainers who are not citizens, only permanent residents. I guess we do need some entertainers, but this ist just a bunch of freeloaders. I recommend that we do not accept any permanent residents that just come for entertaining our fortress anymore.
+
+If one of this group of poets, bards and dancers applies for citizenship, they are welcome and can be assigned proper dwarven labor. But for now, I propose a ban of new entertainers with permanent residency. We have enough of them.
+
+I also started the production of some musical instruments for our temples and our inn. I we have that many bards, we may as well give them proper instruments to entertain us.
+
+### 27th Moonstone, 253
+
+I ordered some rooms to be dug our for our royal guest. I placed the throne room, the bedroom and the dining room on the west side of the great hall, where I originally planned to put our queen's rooms. The mausoleum for our guest will be close to the mausoleum for our queen. I am not sure if these rooms will be good enough, but I will not put huge efforts to accommodate this little freeloader.
+
+### 1st Opal, 253
+
+Since the previous raid on the necromancer tower of Hipnourish was so successful, I set the silvery whines on another mission. The probably destroyed most of the zombies and necromancers last time, so this mission should be relatively easy.
+
+Unrelated to that, I noticed that we don't have enough dwarves to haul things around. Since about half of the permanent population of Dinnerbrains won't work (as mentioned before) and those who do work are mostly forbidden to do menial jobs such as hauling (to enable them to concentrate on more important things), our stockpiles of sand, clay, ore and rocks close to the workshops that process them are empty. I don't have time to adress this problem now. Everything will be a bit slower, but it is kind of self-regulating. Empty source stockpiles mean nothing gets produced which in turn means the haulers don't have to haul the finished goods so they can focus on re-filling the source stockpiles.
+
+### 3rd Opal, 253
+
+I think I know why the previous attack on Hipnourish went so well. When I told the marksdwarves to raid Hipnourish, they packed their stuff and went to the stairs down to the cavern.
+
+![Some marksdwarves in a cavern](img/year-04/62-marksdwarves-cave.png)
+
+They left the fortress not above the ground, but underground! That's why the necromancers where totally suprised by their attack. Let's just hope it works a second time.
+
+### 7th Opal, 253
+
+According to Sazir, we finally have enough prison cells for a fortress of our size. Which means he won't ennoy me with this topic anymore.
+
+The cells still need some furniture, such as beds. I think we can add beds once someone actually gets incarcerated.
+
+![The prison area](img/year-04/63-prison-png)
+
+In Tosid's cell, one can see the preparations for an experiment that I started before Tosid went mad. Since she was a militia captain, I thought she could train in her cell and then be sent out on dangerous missions, so I put some training spears in her cell that are operated by a lever. Since she is not sane enough to fight anymore, this plan won't be completed now.
+
+### 11th Opal, 253
+
+The Silvery Wines returned. Again the utterly failed at hiding, but in the battle that ensued they killed the remaining two necromancers and the few remaining undead.
+
+They brought back several books of varying quality (but apparently, some of them are really good). The books will be put in the library so everyone can study them. Fortunately, none of the books contained knowledge that dwarf was not meant to know. The secrets of life and death should belong only to the gods. Whenever they handed them out to mortals, bad things happened.
+
+Since the secure entrance to the first cavern layer is not done yet, I also sent the Burials of Laboring to raid Hipnourish. I did not mention that no one was left alive (or undead). That way, they will seriously train their ambush skills.
+
+### 17th Opal, 253
+
+The Burials of Laboring have returned from their raid. They returned books as well, and none of them contain the secrets of life and death.
+
+I hope we can get the secure entrance to the third cavern layer done before the end of the year. I would love to add a killed forgotten beast to my list of accomplishments this year.
+
+### 18th Opal, 253
+
+![The Cyclops Escupessal Konligirus has come! A giant humanoid with a single eye set in its forehead.](img/year-04/64-cyclops.png "Go for the eye!")
+
+Dangit! The Burials of Laboring are still tired from their mission and now a friggin' cyclops is on our doorstep. Judging by the direction from which she came, she must have followed them to our fortress.
+
+Well, let's see how well their training was and if they managed to overcome their cave adaption.
+
+![Dwarves fighting a cyclops](img/year-04/65-cyclops-fight.png)
+
+So far, they made the cyclops fall by injuring her foot. Our low quality weapons have trouble piercing the beast's skin and some of the fighters are dizzy from the sunlight. The cyclops has yet to land a serious hit, so we have good chances to win this.
+
+The battle seems to be over now. The cyclops is dead and no one on our side got hurt. Sodel Bekarducim gained enough skill to be called an axe lord now. Zuglar Gigenïngiz, another axe dwarf, didn't even bother to pull his axe. He attacked the cyclops with the first thing that was at hand: ”Explorations Of The Competition“, a scroll that he brought from Hipnourish. The final strike was given by îton Ralsibrek with a short sword.
+
+I will order a memorial slab for the cyclops so everyone can see what mighty foes we brought down. ìton was also the one who wrestled the werebear to death two years ago. This time she used a superior quality iron short sword.
+
+### 23rd Opal, 253
+
+![The Forgotten Beast Efeye Raniyalafo ÿonali has come! A huge hairy pterosaur. It has a twisting, jointed trunk and it undulates rhythmically. Beware its deadly blood!](img/year-04/65-forgotten-beast.png "Can someone draw this beast for me?")
+
+A forgotten beast in the third cavern layer! The one that is opened to the rest of the fortress! And the Burials of Laboring are still guarding the entrance to the fort, tired from the sun.
+
+The beast looks like some kind of bat, except is has some reptile-like features and an elephant's trunk. One of the scholars told me it matches a twisted version of an animal that existed in the time before times but went extinct a long time ago.
+
+I will set a civilian alert and order all available troops to kill the beast. Right now, the beast is chasing a rutherer that roamed the caverns, so we have some time to evacuate the area.
+
+### 24th Opal, 253
+
+Oh carp! The beast got bored of the rutherer and found a hole in the ceiling to our forges and smelters (the hole existed presumably because some large fungus was cut down at that position). Now our most important artisans are in danger. The silvery wines are already close by, so they may have a chance!
+
+The beast attacked Åblel Sashaskivish, a great presser and our fallback-carpenter. The Silvery Wines arrived in time to distract the beast, but Åblel is heavily bleeding and needs medical attention soon, or she will die.
+
+The Silvery Wines did not bring any bolts (great preparation guys, we have to talk about this), so they now use their crossbows as melee weapons against the beast. I hope the Burials of Laboring arrive soon.
+
+Most of the attacks of the marksdwarves glance off the beasts hide, but some of the attacks actually hurt it. No marksdwarf has been injured so far.
+
+![Several marksdwarves fighting a forgotten beast. The forgotten beast lies on the ground, a thresher is bleeding heavily](img/year-04/67-forge-fight.png "Where are our melee fighters?")
+
+Kûbuk Kelrakust just got hurt. Why was he even there? Oh wait, he's dead.
+
+Finally the axedwarves arrived! With the help of the marksdwarves, they quickly corner the beast.
+
+![A forgotten beast cornered by the miltia and some civilians](img/year-04/68-fb-cornered.png)
+
+So far we have lost several civilians. Our scholar Bëmbul was strangeled by the beast, Åblel blead to death, Asmel and Kûbuk are dead. The marksdwarf Atír Zoluthrovod lost a foot (he is the husband of our broker).
+
+The beast finally blead to death, bleeding from several wounds. Zuglar Gikenïngiz made the final blow.
+
+The forge area is a mess. Mutilated corpses and body parts whereever you look, blood everywhere, a newborn baby lying around, left on the ground by its mother who wanted to distract the beast from the baby (that cost her some teeth and her ability to stand). And most of this could have been avoided if we knew about the hole in the ceiling! Or if the marksdwarves had brought some bolts. You know, for firing their crossbows.
+
+At least nobody important died.
+
+### 28th Opal, 253
+
+The baby also died, probably because it got in contact with the beast's deadly blood. A war dog and a puppy died this way as well.
+
+### 1st Obsidian, 253
+
+ùshrir Anilzaneg, one of our marksdwarves, died in the hospital today.
+
+### 13th Obsidian, 253
+
+Today I had a great idea to increase our influence: Since the necromancers' tower is uninhabited now, we can just claim it four our civilisation! I drafted Bëmbul Komanasën, a young dwarf, and send him to claim Hipnourish for us.
+
+### 14th Obsidian, 253
+
+Some hungry heads flew around the third cavern layer yesterday. Some of the visiting monster hunters tried to take care of them, but failed. One of them, Sesta Anbaatem, was killed. He was in possession of a legendary gauntlet. I put this item on display until Sesta's heir comes to claim it. I never knew humans were capable of such craftsmanship.
+
+Oh, and I dispatched The Burials Of Laboring to get rid of the hungry heads. In the meantime the other monster hunter, a marksdwarf called Ustuth Sashasèrith can keep them occupied. She actually brought bolts and already took down two of them.
+
+### 16th Obsidian, 253
+
+I had a great idea: There were some leftover statues of our current and previous overseers. I ordered them to be placed in king Atír's quarters, so he is always reminded it is not *his* fortress he resides in. 
+
+Oh, and the tower of hipnourish is officially ours.
+
+### 18th Obsidian, 253
+
+The forgotten beast that was slewn was butchered yesterday. There is a lot of meat on such a beast. There are over 270 servings of meat alone, together with the organs we can eat of that for a long time. We got a huge amount of tallow from that beast. I ordered to not use the tallow for cooking. We still need soap, and for soap, we need tallow.
+
+### 27th Obsidian, 253
+
+Remember that training spear mechanism I set up to train Tosid? Well someone, probably for revenge, pulled the lever a few times. Tosid is dead now.
+
+### 1st Granite, 254
+
+My second turn as overseer has ended. Here are some notes for my successor:
+
+#### Stocks
+
+Our alcohol crisis has been overcome. Our food supply is stable. We should have enough finished goods for trade. Out stonecrafter, potter and glass maker are all producing useless crap all the time. For the glass maker and the potter, this is really good training. Especially the glass maker can make high value furniture once he is skilled enough.
+
+#### Military and security
+
+I ordered the production of steel breastplates in the autumn, but the production order is not finished yet, because the steel production is rather slow. Once they are done, other parts of armor should be made.
+
+We still have no entrance to the first cavern layer because it took our achitect so long to construct the bridge. The lever to the bridge is labelled with ”1st cavern lever“ and in the northeast of the southern tavern room. It unretracts a bridge.
+
+Be careful when breaching the cavern, a forgotten beast may still there. The Burials of Laboring should be able to deal with the beast though. We haven't heard of the beast for some time, maybe it left.
+![Our inn, with the 1st cavern layer lever in the northeast of the southern room](img/year-04/69-1st-cavern-lever.png)
+![The path to the first cavern layer](img/year-04/70-1st-cavern-path.png)
+
+My street project was not finished either. The idea was that a caravan's wagons have only one way to reach the trade depot. This would be done by cage traps that are two steps apart so a typical wagon would not fit between them. I run out of mechanisms before I finished that.
+
+![An unfinished roat with unfinished cage traps](img/year-04/71-road.png)
+
+I totally neglected the necromancer-weaponizing-plan. I still think this is a promising idea. We should be careful not to kill the necromancers we caught, we killed a significant amount of the world's necromancers, so a replacement could be hard to find.
+
+#### Trained animals
+
+We have two war elephants, dingoes and elk birds that require our animal trainer's attention. Most of the animals are assigned to be trained by 'Lolorpop' Soloneshtân. If anything should happen to him *assign a replacement*. Otherwise you will have a pack of dingoes and two war elephants lose in the fortress.
+
+#### royal quarters
+
+Our queen may or may not visit us in the future. To prepare for this, I set up some rooms in the marble layers, as mentioned before.
+
+I assigned several artifacts to be placed in her rooms. The rooms are smoothed but not engraved yet. Except for two legendary engravers, we only have mediocre engravers.
+
+Oh wait, make that one legendary engraver. The other one just died of old age.
+
+![The royal throne room and a dead engraver](img/year-04/72-royal-throne-room.png "That is how I found out that the engraver died")
+![The royal dining room and bedroom](img/year-04/73-royal-quarters.png)
+![The royal mausoleums](img/year-04/74-royal-mausoleum.png "The northern mausoleum is for our queen. The southern one is for the freeloader king.")
+
+#### Health
+
+We have some good physicians, but we lost a lot of dwarves in the hospital after the forgotten beast incident. We have no soap yet. We have some ash but no lye yet. We have forgotten beast tallow. I recommend to make lye and produce some forgotten beast soap.
