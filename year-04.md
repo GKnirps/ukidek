@@ -123,7 +123,7 @@ From various reports I gathered an approximate number of enemies:
 
 ![The intruding goblins and trolls](img/year-04/09-goblins.png "They are quite fast on their beak dogs")
 
-Right now, we can hear the agonizing sound of our livestock and pets being killed. Why were the pigs outside anyways? They don't even need the grass!. I order our miners to dig an underground pasture for the next time some goblins arrive.
+Right now, we can hear the agonizing sound of our livestock and pets being killed. Why were the pigs outside anyway? They don't even need the grass! I order our miners to dig an underground pasture for the next time some goblins arrive.
 
 Oh, and I also orderd Lolor's bedroom to be walled off. It still had a hole in the ceiling, leading outside. The problem with the workshops outside solved itself, by the way. The trolls destroyed them.
 
@@ -201,7 +201,7 @@ And even better! Gusto told me they found adamantine in that cavern! This is stu
 
 ### 11th Slate, 253
 
-I don't want to dig further down before we sealed of the caverns. Instead, I orderd some new rooms to be dug out.
+I don't want to dig further down before we sealed off the caverns. Instead, I orderd some new rooms to be dug out.
 
 ![Designated bedrooms](img/year-04/18-new-bedrooms.png)
 
@@ -257,7 +257,7 @@ Aban, the baron of Machineflashed mandated the construction of two animal traps.
 
 ### 25 Felsite, 253
 
-I was just writing some work orders to get some magma safe flood gates, mechanisms and stone blocks made, when Chance, the previous Overseer, dropped in. By Lêgan, he looked horrible. Since we are lacking a hospital, his right hand has not healed correct. The nose is a lost case anyways. I assumed he wanted to talk to me about opening a hospital, but instead he told me about his idea for a pump stack to pump magma to one of the upper layers, so we don't have to walk deep down for our forges and smelters.
+I was just writing some work orders to get some magma safe flood gates, mechanisms and stone blocks made, when Chance, the previous Overseer, dropped in. By Lêgan, he looked horrible. Since we are lacking a hospital, his right hand has not healed correct. The nose is a lost case anyway. I assumed he wanted to talk to me about opening a hospital, but instead he told me about his idea for a pump stack to pump magma to one of the upper layers, so we don't have to walk deep down for our forges and smelters.
 
 ![His right hand is mangled beyond recognition. His nose is gone.](img/year-04/22-chance-wounds.png "We can rebuild him.")
 
@@ -298,13 +298,13 @@ Oh, and the hospital has been dug out. I will add a sketch of it here once the f
 
 ### 14th Hematite, 253
 
-Okgush convinced me to meet him right away. He mostly talked about the war they have the Familial Wisps, the elves that are still friendly to us and sold us the grizzly bear earlier this year. The rest was small talk. It was a bit embarassing that we had to meet in my old office, but my new throne room is not furnished yet. But now… let's go shopping.
+Okgush convinced me to meet him right away. He mostly talked about the war they have with the Familial Wisps, the elves that are still friendly to us and sold us the grizzly bear earlier this year. The rest was small talk. It was a bit embarassing that we had to meet in my old office, but my new throne room is not furnished yet. But now… let's go shopping.
 
 ### 15th Hemamtite, 253
 
 I bought some common and precious cut gems, some bars of metal of different kinds, some alcoholic beverages (we are still low on alcohol). I decided to not buy more animals, because our underground pastures are rather small at this time.
 
-I also bought many bins of cloth and leather. We do not produce cloth at all and leather only in an insignificant amount. We may need it though. If I want to get a glass industry running, we need to collect sand in bags. The few bags we have are not even sufficient for our threshers to but our quarry bush leaves in.
+I also bought many bins of cloth and leather. We do not produce cloth at all and leather only in an insignificant amount. We may need it though. If I want to get a glass industry running, we need to collect sand in bags. The few bags we have are not even sufficient for our threshers to put our quarry bush leaves in.
 
 We are now out of stone crafts and had to throw in a few barrels of prepared meals as well. However, once we have a potter and a glasmaker, we will have more than enough useless crap to sell.
 
@@ -326,7 +326,7 @@ I ordered a boar to be slaughtered.
 
 ### 20th Hematite, 253
 
-Chance's hand wound has been sutured and dressed. Unfortunately, his hand was infected. I hope he will pull through. In any case, we need some soap. Once the forges ar build, I will put a side focus to soap production. For the record, here is the report from our chief medical dwarf about Chance's wounds:
+Chance's hand wound has been sutured and dressed. Unfortunately, his hand was infected. I hope he will pull through. In any case, we need some soap. Once the forges are built, I will put a side focus to soap production. For the record, here is the report from our chief medical dwarf about Chance's wounds:
 
 ![The health history of Chance](img/year-04/25-chance-medical-history.png)
 ![Chance has a smashed bone and an infection in his right hand](img/year-04/26-chance-infection.png)
@@ -337,7 +337,7 @@ Since I'm trying to build a sealable entrance to the third cavern layer to breac
 
 In contrast to my original plans, I did not designate the royal quarters below my quarters. Instead, I am building them in the marble layers. This has two advantages:
 1. the royal quarters are made of marble and therefore worth more than our mudstone quarters
-2. we need marble anyways, since we can use it as flux material for steel production
+2. we need marble anyway, since we can use it as flux material for steel production
 
 ![A designation to dig inside a marble layer](img/year-04/27-royal-quarter-designation.png)
 
@@ -506,7 +506,7 @@ Tosid got over four hundred days of prison sentence. This means that it is up to
 
 ### 11th Sandstone, 253
 
-Tosid is in prison now. I locked the door as extra security measure. Once her sentenced is served, my successor should unlock the door again.
+Tosid is in prison now. I locked the door as extra security measure. Once her sentence is served, my successor should unlock the door again.
 
 I also made a sketch of the prison area:
 
@@ -595,7 +595,7 @@ Our fighters had no problem fighting the magma crabs. Unfortunately, one of them
 
 ![Dead magma crabs, fighters, fire and smoke](img/year-04/51-cave-burning.png)
 
-And dammit, we even captured one magma crab in our cage traps, but the wooden cage will probably burn in the fire. On the other hand, magma crabs are basically useless anyways, so this is only a minor setback.
+And dammit, we even captured one magma crab in our cage traps, but the wooden cage will probably burn in the fire. On the other hand, magma crabs are basically useless anyway, so this is only a minor setback.
 
 Someone said they saw Stukos Dorengatiz, who threw a trantrum earlier this year, attacking a magma crab in the middle of the fire, burning to death. Her last words were:
 
