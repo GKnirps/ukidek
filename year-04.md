@@ -26,7 +26,7 @@ I spent most of today to get up to date on what is going on in the fortress. For
 Most importantly, I found out that I am not the only baron in ùkidek. Aban Momuzdeduk, the baron of Machineflashed and his wife reside here as well. Machineflashed is apparently a medium-sized hillocks. Aban migrated to ùkidek before he became baron. When his father died last summer, he was the replacement. I asked him he wanted to return to Machineflashed. He doesn't. He said he never lived in Machineflashed, and neither did his father.
 
 Aban also told me that barons have the right to have much nicer rooms than both of us have today.
-![My current room and furniture. I require a better office, a better dining room and a better tomb.](img/year-04/01-grahar-holdings.png "Not even decent!")
+![My current room and furniture. I require a better office, a better dining room and a better tomb.](img/year-04/01-grahar-holdings.webp "Not even decent!")
 
 Oh, did I mention that Aban has a bedroom fit for a king? He has this legendary armor stand is his bedroom. Unbelievable! I am *the* baron of Dinnerbrains. He ist just a baron of some unimportant Hillocks he doesn't even care for.
 
@@ -40,7 +40,7 @@ All the animal skeletons left outside are also a problem. Some of them are even 
 
 There are several Workshops outside, which means dwarves have to work outside. **Outside!** No wonder everyone here is traumatized. Even the children play outside!
 
-![Dodòk Masterquake: ”I was nauseated by the sun. So disgusting…“](img/year-04/02-child-nauseated.png "At least she has a choice. Our tanners do not.")
+![Dodòk Masterquake: ”I was nauseated by the sun. So disgusting…“](img/year-04/02-child-nauseated.webp "At least she has a choice. Our tanners do not.")
 
 We also have only one kind of booze and are quickly running out of it.
 
@@ -61,13 +61,13 @@ Our melee militia is completely unequipped and untrained. Our only qualified car
 
 The fortress guard on the other hand is at least equipped with leather armor (well, as far as we have leather armor) and weapons. On the other hand, some of our most skilled Stoneworkers are part of the fortress guard! Also, the captain of the guard keeps complaining about having no prison for criminals. We have no prison. We need to dig out some room for one.
 
-![Our Captain of the guard was frustrated considering the scarcity of cages and chains.](img/year-04/03-missing-prison.png)
+![Our Captain of the guard was frustrated considering the scarcity of cages and chains.](img/year-04/03-missing-prison.webp)
 
 At least our marksdwarves are equipped and training. The zombie-shooting-range is still not working, but we can fix that.
 
 Regarding the weapons and other equipment, we need a forge first. However, we have not struck magma yet. We need to dig deeper. And there is a rumour about a monster in the first cavern layer. After investigating these rumours, I got the following description:
 
-![A towering eyless oriole. It has a long, swining trunk and it has a bloated body. Beware its deadly spittle!](img/year-04/04-ngalak.png)
+![A towering eyless oriole. It has a long, swining trunk and it has a bloated body. Beware its deadly spittle!](img/year-04/04-ngalak.webp)
 
 ”How do you know its appearance?“ I asked the bard who told me about it. Have you seen it? ”Of course not“, he answered, ”Overseer Gusto walled of this whole cavern. That was before the beast appeared“.
 
@@ -96,19 +96,19 @@ So, long story short:
 
 After reorganizing some labours (especially reducing the number of our fisherdwarves to one), the peasant was at my door againm asking me what to do with the dead bards. Apparently, some bards dropped dead, dying of old age. I told her to just bury them, but she told me there weren't any empty graves left. She knows more about what's going on in this fortress than me. Maybe I should make her my assistant.
 
-![Medtob Ingtakineth and Etur Rigòthborlon, bards have been found dead](img/year-04/05-dead-bards.png "Hide behind the mount of dead bards")
+![Medtob Ingtakineth and Etur Rigòthborlon, bards have been found dead](img/year-04/05-dead-bards.webp "Hide behind the mount of dead bards")
 
 I just sent her away, with a production order for more coffins when the shouting started.
 
-![Intruders! Drive them away!](img/year-04/06-necromancer-intruder.png "We are so dead.")
+![Intruders! Drive them away!](img/year-04/06-necromancer-intruder.webp "We are so dead.")
 
 I ordered everyone inside. On their flight, our people counted some more intruders. Necromancers! Just as I feared. But before they got to raise our killed livestock, they fled.
 
-![A list of necromancers](img/year-04/07-necromancers.png "Who knows how many more are hiding in the tall grass?")
+![A list of necromancers](img/year-04/07-necromancers.webp "Who knows how many more are hiding in the tall grass?")
 
 Not a moment to soon, it seemed:
 
-![A vile force of darkness has arrived!](img/year-04/08-siege.png)
+![A vile force of darkness has arrived!](img/year-04/08-siege.webp)
 
 The Gates close with a loud **THUNK**. One of the last people to get in was the elven diplomat, scolding me about cutting trees. As if I had no other problems. What a day.
 
@@ -121,7 +121,7 @@ From various reports I gathered an approximate number of enemies:
 - 10 trolls
 - 14 elves, part of the performance troupe ”The Calm Cacti“ (or maybe they just have a bad timing).
 
-![The intruding goblins and trolls](img/year-04/09-goblins.png "They are quite fast on their beak dogs")
+![The intruding goblins and trolls](img/year-04/09-goblins.webp "They are quite fast on their beak dogs")
 
 Right now, we can hear the agonizing sound of our livestock and pets being killed. Why were the pigs outside anyway? They don't even need the grass! I order our miners to dig an underground pasture for the next time some goblins arrive.
 
@@ -151,7 +151,7 @@ The elves brought a frickin' grizzly bear! If they bring another one next year, 
 
 The new burial cave is dug out, the coffins are placed as I write this. They are below our living quarters. This is also where I will place our temples. Oh, did I mention we have no hospital yet? I recently replaced our chief medical dwarf with someone more experienced, but that does not help if there is no hospital.
 
-![The burial cave and the designated temple](img/year-04/10-graves-and-temple.png)
+![The burial cave and the designated temple](img/year-04/10-graves-and-temple.webp)
 
 ### 23rd Granite, 253
 
@@ -169,20 +169,20 @@ Whoa. We have about fourty immigrants. Some cattle and a donkey foal (which I im
 
 We make progress on many fronts. I have breached the second layer cavern again and ordered stairs to be built downwards. When that is done, I will wall the stairs off.
 
-![Stairs (partially constructed) in a cavern)](img/year-04/11-cavern-stairs.png "What can possibly go wrong?")
+![Stairs (partially constructed) in a cavern)](img/year-04/11-cavern-stairs.webp "What can possibly go wrong?")
 
 The main temple makes progress, the statue is about to be placed. We still need doors, though.
 
-![A room with a not-yet-placed statue](img/year-04/12-temple-construction.png)
+![A room with a not-yet-placed statue](img/year-04/12-temple-construction.webp)
 
 We enlarged the workshop area. I also ordered new baracks do be dug out, since we need the old baracks for workshops. I put the new baracks close to the entrance hall, so the militia can act quickly against an outside threat. We also have another melee squad. I intend to build baracks for them somewhere close to the cavern shaft, so they can act quickly against beasts from the cavern.
 
-![Enlarged workshop space](img/year-04/13-workshops.png "More space for our craftsdwarves")
-![Designated new baracks](img/year-04/14-new-baracks.png "Our squads will love it.")
+![Enlarged workshop space](img/year-04/13-workshops.webp "More space for our craftsdwarves")
+![Designated new baracks](img/year-04/14-new-baracks.webp "Our squads will love it.")
 
 I just don't have the capacity to enlarge our inn now. But it is very crowded. See for yourself.
 
-![A crowded inn](img/year-04/15-overcrowded-inn.png "It is hard to get to the emergency bridge levers in here.")
+![A crowded inn](img/year-04/15-overcrowded-inn.webp "It is hard to get to the emergency bridge levers in here.")
 
 ### 8th Slate, 253
 
@@ -192,18 +192,18 @@ Today I asked one of our resident animal trainers if they can train those caged 
 
 We breached the third cavern layer. And it's got a magma pool. This means we don't have to dig down all the way.
 
-![A cavern with a partially visible magma pool](img/year-04/16-third-cavern.png "There is even some garnierite!")
+![A cavern with a partially visible magma pool](img/year-04/16-third-cavern.webp "There is even some garnierite!")
 
 And even better! Gusto told me they found adamantine in that cavern! This is stuff of legends! I will wait before mining it though. It is only worth to be processed by the most legendary smiths.
 
-![Raw adamantine! Praise the miners!](img/year-04/17-raw-adamantine.png "Let's dig deeper.")
+![Raw adamantine! Praise the miners!](img/year-04/17-raw-adamantine.webp "Let's dig deeper.")
 
 
 ### 11th Slate, 253
 
 I don't want to dig further down before we sealed off the caverns. Instead, I orderd some new rooms to be dug out.
 
-![Designated bedrooms](img/year-04/18-new-bedrooms.png)
+![Designated bedrooms](img/year-04/18-new-bedrooms.webp)
 
 ### 12th Slate, 253
 
@@ -213,7 +213,7 @@ The main temple has been opened today. It still needs some smoothing, but we fin
 
 The miners have finished digging out the new rooms, so I can finally move on to get appropriate rooming. I also designated some rooms for the baron of Machineflashed. I designated them to be dug out west of the great hall.
 
-![Designated noble quarters](img/year-04/19-noble-quarters.png "I hope they are not too small")
+![Designated noble quarters](img/year-04/19-noble-quarters.webp "I hope they are not too small")
 
 I roughly plan to dig even more elaborate rooms on the layer below, in case the king ever decides to pay us a visit. That reminds me. I have some notes laying around here, some even from the visit of the outpost liaison in 250. Back then I was to busy to read them. I handed them over to my successor. The seal is still intact, though. Meh, can't be that important. I'll just read them tomorrow.
 
@@ -231,7 +231,7 @@ The king was twenty years younger than me. I am suddenly very happy that I am no
 
 The garbage drop that Gusto installed is finally in working order.
 
-![A garbage dump and a lever](img/year-04/20-garbage-dump.png "It smells")
+![A garbage dump and a lever](img/year-04/20-garbage-dump.webp "It smells")
 
 The garbage is on a floor hatch that can be opened with a lever. The garbage is dropped several stories. In the future, I would like to move it a few tiles to the east, so we can drop our garbage into the magma pool. For now, we just let it drop into an unused hole.
 
@@ -249,7 +249,7 @@ The second and third cavern layers are now completely separated from our stairca
 
 Our booze stock has been quadrupled since the start of the year. We now have about 160 servings of booze, which is not much, but we are on the right way. We also have more different kind of drinks, which is a nice change.
 
-![Eight different kinds of alcoholic beverages](img/year-04/21-booze-variety.png)
+![Eight different kinds of alcoholic beverages](img/year-04/21-booze-variety.webp)
 
 ### 16th Felsite, 253
 
@@ -259,7 +259,7 @@ Aban, the baron of Machineflashed mandated the construction of two animal traps.
 
 I was just writing some work orders to get some magma safe flood gates, mechanisms and stone blocks made, when Chance, the previous Overseer, dropped in. By Lêgan, he looked horrible. Since we are lacking a hospital, his right hand has not healed correct. The nose is a lost case anyway. I assumed he wanted to talk to me about opening a hospital, but instead he told me about his idea for a pump stack to pump magma to one of the upper layers, so we don't have to walk deep down for our forges and smelters.
 
-![His right hand is mangled beyond recognition. His nose is gone.](img/year-04/22-chance-wounds.png "We can rebuild him.")
+![His right hand is mangled beyond recognition. His nose is gone.](img/year-04/22-chance-wounds.webp "We can rebuild him.")
 
 An intriguing thought. I called our engineers and asked for their opinions. They seemed happy about it. Called it a really cool project which they really want to do.
 
@@ -276,7 +276,7 @@ Two of them are running around with foam coming out of their mouths, willing to 
 
 The fight was short and gory. Our soldiers entered the room and made short work of this mess of former goblin soldiers. The necromancer did not try anything. Chance suspected he was unable to properly see them through two rows of fortifications. I plan to re-cage the necromancer later so we can make some other experiments with undead as archery targets later.
 
-![Blood, vomit, some soldiers and mutilated goblin corpses](img/year-04/23-gore.png "I am SO happy I am not part of the cleanup crew.")
+![Blood, vomit, some soldiers and mutilated goblin corpses](img/year-04/23-gore.webp "I am SO happy I am not part of the cleanup crew.")
 
 ### 9th Hematite, 253
 
@@ -312,7 +312,7 @@ Oh, and the hospital is furnished. The walls are still rough, but we will fix th
 
 Let's just hope the unsanitary conditions in the hospital won't give him an infection. Right now, we don't even have soap.
 
-![The hospital close to some bedrooms](img/year-04/24-hospital.png)
+![The hospital close to some bedrooms](img/year-04/24-hospital.webp)
 
 ### 16th Hematite, 253
 
@@ -328,8 +328,8 @@ I ordered a boar to be slaughtered.
 
 Chance's hand wound has been sutured and dressed. Unfortunately, his hand was infected. I hope he will pull through. In any case, we need some soap. Once the forges are built, I will put a side focus to soap production. For the record, here is the report from our chief medical dwarf about Chance's wounds:
 
-![The health history of Chance](img/year-04/25-chance-medical-history.png)
-![Chance has a smashed bone and an infection in his right hand](img/year-04/26-chance-infection.png)
+![The health history of Chance](img/year-04/25-chance-medical-history.webp)
+![Chance has a smashed bone and an infection in his right hand](img/year-04/26-chance-infection.webp)
 
 ### 21st Hematite, 253
 
@@ -339,7 +339,7 @@ In contrast to my original plans, I did not designate the royal quarters below m
 1. the royal quarters are made of marble and therefore worth more than our mudstone quarters
 2. we need marble anyway, since we can use it as flux material for steel production
 
-![A designation to dig inside a marble layer](img/year-04/27-royal-quarter-designation.png)
+![A designation to dig inside a marble layer](img/year-04/27-royal-quarter-designation.webp)
 
 ### 24th Hematite
 
@@ -347,7 +347,7 @@ In contrast to my original plans, I did not designate the royal quarters below m
 
 ### 25th Hematite, 253
 
-![Kadol Zanosmûthkat, Mechanic has been found dead, completely drained of blood!](img/year-04/28-kadol-drained.png)
+![Kadol Zanosmûthkat, Mechanic has been found dead, completely drained of blood!](img/year-04/28-kadol-drained.webp)
 
 Oh carp. It seems we have a vampire among us. When Kadol did not appeared to work today, someone looked in his room and found him drained of blood. Kadol was a good friend of mine, one of guys I brought along when I was sent to found this fortress. Even worse, he was our only architect. How can we build our security bridges without him?
 
@@ -359,7 +359,7 @@ I appointed Likot, another Mechanic to be our new architect. Better than nothing
 
 èzum finished his artifact:
 
-![A detailed description of an artifact](img/year-04/29-erithudil.png "Menacing spikes of silk?")
+![A detailed description of an artifact](img/year-04/29-erithudil.webp "Menacing spikes of silk?")
 
 He claimed it as family heirloom, but he will probably accept if we display this work in a temple of Nanir (once we have one).
 
@@ -383,8 +383,8 @@ I also ordered to make some ash, the first step to make soap.
 
 The bridge to lock off the third cavern layer has been built. It is a retracting bridge that blocks the cavern if the bridge is not retracted. It will be connected to a lever in the north-west of our dining hall.
 
-![The dining hall with a lever in the north-east corner](img/year-04/30-cavern-lever.png "The lever to open the 3rd cavern layer")
-![A staircase, a bridge and some unfinished traps](img/year-04/31-cavern-bridge.png "I also ordered some traps to be built")
+![The dining hall with a lever in the north-east corner](img/year-04/30-cavern-lever.webp "The lever to open the 3rd cavern layer")
+![A staircase, a bridge and some unfinished traps](img/year-04/31-cavern-bridge.webp "I also ordered some traps to be built")
 
 ### 23rd Malachite, 253
 
@@ -400,14 +400,14 @@ We breached the third cavern layer for the second time. I ordered the militia to
 
 The next steps are to build some walls to direct the magma to where we want it and channel into the wall of the magma pool.
 
-![Ramps up to the fortress and a magma pool](img/year-04/33-magma-pool-full.png "The blood of the earth")
+![Ramps up to the fortress and a magma pool](img/year-04/33-magma-pool-full.webp "The blood of the earth")
 
 ### 17th Galena, 253
 
 The blood of the earth is flowing. Before I flood the tubes below our forges, here are some schematics how the tubes work:
 
-![Empty tubes with a floodgate in the west and a floodgate in the east that blocks the magma flow](img/year-04/34-magma-tubes.png "The veins for the blood of the earth")
-![The smelters and forges, some stockpiles and two levers besides the staircase](img/year-04/35-forges.png)
+![Empty tubes with a floodgate in the west and a floodgate in the east that blocks the magma flow](img/year-04/34-magma-tubes.webp "The veins for the blood of the earth")
+![The smelters and forges, some stockpiles and two levers besides the staircase](img/year-04/35-forges.webp)
 
 There are two floodgates to the magma tubes. The one in the east is for flooding the magma tubes, the one in the west is for draining them. In the layer above are the forges. North and south of the staircase are labelled levers to controll those floodgates.
 
@@ -419,7 +419,7 @@ The magma is slowly flowing through the tubes. Soon we can start a proper metal 
 
 Oh, and we caught some elk birds in the third cavern layer. Maybe we can train and breed them.
 
-![Some caged elk birds and some uncaged elk birds](img/year-04/36-elk-birds.png "Finally a normal creature.")
+![Some caged elk birds and some uncaged elk birds](img/year-04/36-elk-birds.webp "Finally a normal creature.")
 
 ### 27th Galena, 253
 
@@ -473,17 +473,17 @@ After the meeting we made a short tour through the fortress, where I demonstrate
 
 I added another romm to our inn. Here is a sketch, just before it is fully smoothed out and filled with people:
 
-![Two dining halls, the southern one is partially furnished and mostly empty, the southern one is full with people](img/year-04/37-dining-halls.png)
+![Two dining halls, the southern one is partially furnished and mostly empty, the southern one is full with people](img/year-04/37-dining-halls.webp)
 
 ### 27th Limestone, 253
 
 The vampire has struck again.
 
-![Etur Sodelukosh, Poet has been found dead, completely drained of blood!](img/year-04/38-poet-drained.png "I did not like his poetry either, but this is a bit too much.")
+![Etur Sodelukosh, Poet has been found dead, completely drained of blood!](img/year-04/38-poet-drained.webp "I did not like his poetry either, but this is a bit too much.")
 
 This time however, the vampire was not really smart. Due to lack of rentable rooms in our inn, the poet slept on the floor of the inn. The inn that is overcrowded all the time. That was where the vampire attacked.
 
-![A list of witnesses that accuse Tosid Ensebgusil of murder](img/year-04/39-accusations.png "I think the case is clear")
+![A list of witnesses that accuse Tosid Ensebgusil of murder](img/year-04/39-accusations.webp "I think the case is clear")
 
 Tosid Ensebgusil, militia captain of a squad that contains only one fighter (after the other one became a legendary stone detailer due to a mood). Now we have a problem. We have no jail. Sazir, the captain of the guard constantly reminds me of it and is quite frustrated right now.
 
@@ -491,7 +491,7 @@ I ordered some chains to be made, but neither the chains nor the frickin' animal
 
 Update: we have no ropes. An iron chain however is forged just as we speak. Mebzuth, the metalcrafter in training is just a bit confused by the bards who just made a polonaise through our smelters:
 
-![Bards performing a polonaise through our smelters and forges](img/year-04/40-bard-polonaise.png "I am not making this up.")
+![Bards performing a polonaise through our smelters and forges](img/year-04/40-bard-polonaise.webp "I am not making this up.")
 
 ### 4th Sandstone, 253
 
@@ -510,7 +510,7 @@ Tosid is in prison now. I locked the door as extra security measure. Once her se
 
 I also made a sketch of the prison area:
 
-![Several rooms, three of them have chains, one of them contains a confined dwarf](img/year-04/41-prison.png "We need more cells. Our captain of the guard wants at least 20.")
+![Several rooms, three of them have chains, one of them contains a confined dwarf](img/year-04/41-prison.webp "We need more cells. Our captain of the guard wants at least 20.")
 
 ### 14th Sandstone, 253
 
@@ -522,9 +522,9 @@ The Sand and clay collecting has begun. We now have two regular kilns and two re
 
 But… how to make sure we always have access to the sand and the clay? The vegetation grows rather fast. Then inspiration struck: We have elephants and elk birds. Those need to graze. If we train them and let them graze in the sand and clay rooms, they keep the vegetation down. That way we can kill two birds with one stone.
 
-![Two glass furnaces, two kilns and some stockpiles with bags, sand bags and clay](img/year-04/42-collection-room.png)
-![A room with a clay floor, some elk birds and a dwarf collecting clay](img/year-04/43-clay-area.png "It's not dirt. It's raw material for valuable ceramic goods")
-![A room with a sand floor and a sand bag](img/year-04/44-sand-area.png "The elephants are not trained yet")
+![Two glass furnaces, two kilns and some stockpiles with bags, sand bags and clay](img/year-04/42-collection-room.webp)
+![A room with a clay floor, some elk birds and a dwarf collecting clay](img/year-04/43-clay-area.webp "It's not dirt. It's raw material for valuable ceramic goods")
+![A room with a sand floor and a sand bag](img/year-04/44-sand-area.webp "The elephants are not trained yet")
 
 À propos killing birds: I will order some armor soon. Our soldiers trained the whole year. Since we had no other weapons, most of them are now axe fighters that fight with the axes we have for cutting wood. I will build a sealable entrance to cave layer one, where we can finally kill that forgotten beast. This project should be done by winter.
 
@@ -540,11 +540,11 @@ They have been outside for two days now, and the cave adaption sickness has kick
 
 I also started the street project and set up some walls around our entrance. This is the first step to a representable building as entrance, not just the hole in the ground we have now.
 
-![The entrance, enclosed with mudstone brick walls and some vomiting dwarves](img/year-04/45-guards.png "To be fair, most of the vomit comes from the dwarves that constructed the walls and our fishers.")
+![The entrance, enclosed with mudstone brick walls and some vomiting dwarves](img/year-04/45-guards.webp "To be fair, most of the vomit comes from the dwarves that constructed the walls and our fishers.")
 
 We also have a new holding. One step further on my way to be a duke.
 
-![The hillocks of Notchedflags has been founded nearly a day's travel to the east and incorporated into your holdings.](img/year-04/46-notchedflags.png)
+![The hillocks of Notchedflags has been founded nearly a day's travel to the east and incorporated into your holdings.](img/year-04/46-notchedflags.webp)
 
 ### 13th Timber, 253
 
@@ -554,7 +554,7 @@ I don't let her use steel yet (we don't have much steel yet, so what we have is 
 
 Unrelated to this, I just got a note from our captain of the guard:
 
-![Tosid Ensebgusil, militia captain is stumbling around obliviously!](img/year-04/47-tosid-oblivious.png "She'll be fine")
+![Tosid Ensebgusil, militia captain is stumbling around obliviously!](img/year-04/47-tosid-oblivious.webp "She'll be fine")
 
 She still has 369 days of prison time to serve for her murders. There is a betting pool of whether she will go stark raving mad before she gets free. Normally I would forbid such tactless bets, but I am still angry over the death of Kadol, so I will turn a blind eye on this.
 
@@ -570,7 +570,7 @@ I am not quite content with my rooms right now. They seem a little bland, not wo
 
 ### 27th Timber, 253
 
-![Amost Lenshamalåth, Mason is taken by a fey mood!](img/year-04/48-amost-fey-mood.png)
+![Amost Lenshamalåth, Mason is taken by a fey mood!](img/year-04/48-amost-fey-mood.webp)
 
 Amost is our high master mason. She is second only to the legendary mason Ingish Etestathel. She is also 159 years old, which is a proud age for a dwarf.
 
@@ -582,8 +582,8 @@ I sent our squad of marksdwarves, the Silvery Wines out to a reconaissance missi
 
 Some magma crabs came out of the magma pool and started attacking dwarves in the cavern. Unib Dastotathel, a hauler with some medical training, is their first target. Unib is without any battle equipment or training. So far, he seems to be able to defend himself, but I have to send down our fighters to destroy those dangerous beasts.
 
-![Some magma crabs and Unib the dwarf](img/year-04/49-unib-and-magma-crabs.png "O crab!")
-![Unib wrestles a magma crab](img/year-04/50-unib-vs-magma-crab.png "Not bad for someone without any battle experience at all.")
+![Some magma crabs and Unib the dwarf](img/year-04/49-unib-and-magma-crabs.webp "O crab!")
+![Unib wrestles a magma crab](img/year-04/50-unib-vs-magma-crab.webp "Not bad for someone without any battle experience at all.")
 
 Unib actually managed to escape, even breaking one of the magma crabs' body. Those magma crabs are actually rather small. I heard rumours that they were able to spit molten rock though, so we should be careful. The fighters are on their way.
 
@@ -593,13 +593,13 @@ Sodel, our legendary clothier on the other hand charged in and killed one of the
 
 Our fighters had no problem fighting the magma crabs. Unfortunately, one of them managed to the the moss in the third cavern layer on fire. We should probably retreat from there, a cavern fire is much more dangerous than some magma crabs.
 
-![Dead magma crabs, fighters, fire and smoke](img/year-04/51-cave-burning.png)
+![Dead magma crabs, fighters, fire and smoke](img/year-04/51-cave-burning.webp)
 
 And dammit, we even captured one magma crab in our cage traps, but the wooden cage will probably burn in the fire. On the other hand, magma crabs are basically useless anyway, so this is only a minor setback.
 
 Someone said they saw Stukos Dorengatiz, who threw a trantrum earlier this year, attacking a magma crab in the middle of the fire, burning to death. Her last words were:
 
-![I was caught in smoke underground. No, that's not annoying.](img/year-04/52-stukos-last-words.png "She always loved sarcasm.")
+![I was caught in smoke underground. No, that's not annoying.](img/year-04/52-stukos-last-words.webp "She always loved sarcasm.")
 
 Since there will probably not much left of her after the fire, I ordered a memorial slab for her, so her friends and family have a place to remember her. I think the Insightful Shrine, the temple of the Mighty Talons, our death god will be a good place for that slab.
 
@@ -607,11 +607,11 @@ Addendum: The third cavern layer is sealed off. As far as I can tell, everyone (
 
 ### 8th Moonstone, 253
 
-![Amost Lenshamalåth, Mason has created Gébardolek Nish Zutthan, a slate cabinet!](img/year-04/53-artifact-cabinet.png)
+![Amost Lenshamalåth, Mason has created Gébardolek Nish Zutthan, a slate cabinet!](img/year-04/53-artifact-cabinet.webp)
 
 Amost claimed the artifact as personal treasure. Fine, but I will borrow it for the royal bedroom.
 
-![A description of the legendary cabinet](img/year-04/54-artifact-description.png)
+![A description of the legendary cabinet](img/year-04/54-artifact-description.webp)
 
 As always for artifacts like this, I could lose myself in them. The incredibly detailed scenes of the Squeezing Clash in slade and leather are a thing for itself, but what impresses me most is a detailed image of the cabinet itself on the cabinet. The image even includes the image of the cabinet. It's cabinets all the way down!
 
@@ -619,8 +619,8 @@ As always for artifacts like this, I could lose myself in them. The incredibly d
 
 The Silvery Wines returned from their mission. I don't know if I should be angry or euphoric. On the one hand Cerol (the captain of the squad) blatantly ignored my order to try to be undetected. On the other hand she outsmarted the necromancers' tactitian, but on the other hand they killed no less than seven necromancers and many undead abominations. All without a single fallen fighter. This is their official report:
 
-![Part 1/2 of a lengthy mission report](img/year-04/55-raid-report-1.png) 
-![Part 2/2 of a lengthy mission report](img/year-04/56-raid-report-2.png)
+![Part 1/2 of a lengthy mission report](img/year-04/55-raid-report-1.webp) 
+![Part 2/2 of a lengthy mission report](img/year-04/56-raid-report-2.webp)
 
 They did not bring any of the necromancers' books. Since we have proven that we can beat them without knowing more about their powers means we don't need those books, so I guess we're fine.
 
@@ -630,7 +630,7 @@ To celebrate this victory, I ordered one of the dingoes and one of the elk birds
 
 The memorial slab for Stukos was engraved. I am a bit disappointed by the description of Stukos' death:
 
-![In memory of Stukos Dorengatiz / Borin 232 / Bled to death, slain by the dwarf Sazir Wireash in the year 253](img/year-04/57-stukos-memorial.png)
+![In memory of Stukos Dorengatiz / Borin 232 / Bled to death, slain by the dwarf Sazir Wireash in the year 253](img/year-04/57-stukos-memorial.webp)
 
 To make it entirely clear: Stukos _was_ beaten up by our captain of the guard, which is the usual punishment for vandalism if there is no way to imprison the offender. At the point Stukos was found guilty, we only had one prison cell that was already occupied with a vampire. That was three months ago. Stukos died in a fire after killing a magma crab. I will not let slander defile the reputation of our captain of the guard, neither will I let the memory of Stukos be tainted by the idea she was executed instead of fighting for our fortress.
 
@@ -640,15 +640,15 @@ That said, I will place this slab in the temple. It is still a nice slab.
 
 Today was the opening ceremony for our new library. I already bought a few books from the caravans and my successor should do so as well. It is possible that we attract scholars that bring knowledge to our fortress. If not, than we may have at least some interesting books to read.
 
-![the library](img/year-04/58-library.png "Someone told me we need an orang utan.")
+![the library](img/year-04/58-library.webp "Someone told me we need an orang utan.")
 
 ### 23rd Moonstone, 253
 
-![Tosid Ensebgusil, Milker has gone stark raving mad!](img/year-04/59-tosid-mad.png "It was inevitable.")
+![Tosid Ensebgusil, Milker has gone stark raving mad!](img/year-04/59-tosid-mad.webp "It was inevitable.")
 
 Apparently our resident vampire has lost it. Maybe she could not live with the guilt of murdering innocent dwarves. Maybe the confinement in prison was too much for her.
 
-![Tosid Ensebgusil has been overthrown by the stresses of day-to-day living.](img/year-04/60-tosid-stress.png "She was horrified killing my friend")
+![Tosid Ensebgusil has been overthrown by the stresses of day-to-day living.](img/year-04/60-tosid-stress.webp "She was horrified killing my friend")
 
 In any case: What do we do with her? Officially, she still needs to serve over a year in the prison. But after that? We don't have an asylum. Usually dwarves that go insane just die after a while because they refuse to eat. But Tosid is a vampire. She does not need to eat or drink. I doubt she even needs the blood to continue existing.
 
@@ -656,7 +656,7 @@ And damn, I lost my bet.
 
 ### 26th Moonstone, 253
 
-![After a polite discussion with local rivals, Atír Roughnesscave has claimed the position of the king of The Lashes of Wishing.](img/year-04/61-atir-king.png)
+![After a polite discussion with local rivals, Atír Roughnesscave has claimed the position of the king of The Lashes of Wishing.](img/year-04/61-atir-king.webp)
 
 Our fortress seems to attract nobility from everywhere. Right now, we have a baron of our own civilisation (Aban, the baron of Machineflashed and lover of animal traps), Itlud Sothbite, a human lord of the Nations of Heart, several consorts of nobles from all around the world and now this king from a civilisation I've never heard of before.
 
@@ -682,7 +682,7 @@ Unrelated to that, I noticed that we don't have enough dwarves to haul things ar
 
 I think I know why the previous attack on Hipnourish went so well. When I told the marksdwarves to raid Hipnourish, they packed their stuff and went to the stairs down to the cavern.
 
-![Some marksdwarves in a cavern](img/year-04/62-marksdwarves-cave.png)
+![Some marksdwarves in a cavern](img/year-04/62-marksdwarves-cave.webp)
 
 They left the fortress not above the ground, but underground! That's why the necromancers where totally suprised by their attack. Let's just hope it works a second time.
 
@@ -692,7 +692,7 @@ According to Sazir, we finally have enough prison cells for a fortress of our si
 
 The cells still need some furniture, such as beds. I think we can add beds once someone actually gets incarcerated.
 
-![The prison area](img/year-04/63-prison.png)
+![The prison area](img/year-04/63-prison.webp)
 
 In Tosid's cell, one can see the preparations for an experiment that I started before Tosid went mad. Since she was a militia captain, I thought she could train in her cell and then be sent out on dangerous missions, so I put some training spears in her cell that are operated by a lever. Since she is not sane enough to fight anymore, this plan won't be completed now.
 
@@ -712,13 +712,13 @@ I hope we can get the secure entrance to the third cavern layer done before the 
 
 ### 18th Opal, 253
 
-![The Cyclops Escupessal Konligirus has come! A giant humanoid with a single eye set in its forehead.](img/year-04/64-cyclops.png "Go for the eye!")
+![The Cyclops Escupessal Konligirus has come! A giant humanoid with a single eye set in its forehead.](img/year-04/64-cyclops.webp "Go for the eye!")
 
 Dangit! The Burials of Laboring are still tired from their mission and now a friggin' cyclops is on our doorstep. Judging by the direction from which she came, she must have followed them to our fortress.
 
 Well, let's see how well their training was and if they managed to overcome their cave adaption.
 
-![Dwarves fighting a cyclops](img/year-04/65-cyclops-fight.png)
+![Dwarves fighting a cyclops](img/year-04/65-cyclops-fight.webp)
 
 So far, they made the cyclops fall by injuring her foot. Our low quality weapons have trouble piercing the beast's skin and some of the fighters are dizzy from the sunlight. The cyclops has yet to land a serious hit, so we have good chances to win this.
 
@@ -728,7 +728,7 @@ I will order a memorial slab for the cyclops so everyone can see what mighty foe
 
 ### 23rd Opal, 253
 
-![The Forgotten Beast Efeye Raniyalafo ÿonali has come! A huge hairy pterosaur. It has a twisting, jointed trunk and it undulates rhythmically. Beware its deadly blood!](img/year-04/66-forgotten-beast.png "Can someone draw this beast for me?")
+![The Forgotten Beast Efeye Raniyalafo ÿonali has come! A huge hairy pterosaur. It has a twisting, jointed trunk and it undulates rhythmically. Beware its deadly blood!](img/year-04/66-forgotten-beast.webp "Can someone draw this beast for me?")
 
 A forgotten beast in the third cavern layer! The one that is opened to the rest of the fortress! And the Burials of Laboring are still guarding the entrance to the fort, tired from the sun.
 
@@ -746,13 +746,13 @@ The Silvery Wines did not bring any bolts (great preparation guys, we have to ta
 
 Most of the attacks of the marksdwarves glance off the beasts hide, but some of the attacks actually hurt it. No marksdwarf has been injured so far.
 
-![Several marksdwarves fighting a forgotten beast. The forgotten beast lies on the ground, a thresher is bleeding heavily](img/year-04/67-forge-fight.png "Where are our melee fighters?")
+![Several marksdwarves fighting a forgotten beast. The forgotten beast lies on the ground, a thresher is bleeding heavily](img/year-04/67-forge-fight.webp "Where are our melee fighters?")
 
 Kûbuk Kelrakust just got hurt. Why was he even there? Oh wait, he's dead.
 
 Finally the axedwarves arrived! With the help of the marksdwarves, they quickly corner the beast.
 
-![A forgotten beast cornered by the miltia and some civilians](img/year-04/68-fb-cornered.png)
+![A forgotten beast cornered by the miltia and some civilians](img/year-04/68-fb-cornered.webp)
 
 So far we have lost several civilians. Our scholar Bëmbul was strangeled by the beast, Åblel blead to death, Asmel and Kûbuk are dead. The marksdwarf Atír Zoluthrovod lost a foot (he is the husband of our broker).
 
@@ -810,12 +810,12 @@ We still have no entrance to the first cavern layer because it took our achitect
 
 Be careful when breaching the cavern, a forgotten beast may still there. The Burials of Laboring should be able to deal with the beast though. We haven't heard of the beast for some time, maybe it left.
 
-![Our inn, with the 1st cavern layer lever in the northeast of the southern room](img/year-04/69-1st-cavern-lever.png)
-![The path to the first cavern layer](img/year-04/70-1st-cavern-path.png)
+![Our inn, with the 1st cavern layer lever in the northeast of the southern room](img/year-04/69-1st-cavern-lever.webp)
+![The path to the first cavern layer](img/year-04/70-1st-cavern-path.webp)
 
 My road project was not finished either. The idea was that a caravan's wagons have only one way to reach the trade depot. This would be done by cage traps that are two steps apart so a typical wagon would not fit between them. I run out of mechanisms before I finished that.
 
-![An unfinished roat with unfinished cage traps](img/year-04/71-road.png "I'm on a highway to elves")
+![An unfinished roat with unfinished cage traps](img/year-04/71-road.webp "I'm on a highway to elves")
 
 I totally neglected the necromancer-weaponizing-plan. I still think this is a promising idea. We should be careful not to kill the necromancers we caught, we killed a significant amount of the world's necromancers, so a replacement could be hard to find.
 
@@ -831,9 +831,9 @@ I assigned several artifacts to be placed in her rooms. The rooms are smoothed b
 
 Oh wait, make that one legendary engraver. The other one just died of old age.
 
-![The royal throne room and a dead engraver](img/year-04/72-royal-throne-room.png "That is how I found out that the engraver died")
-![The royal dining room and bedroom](img/year-04/73-royal-quarters.png)
-![The royal mausoleums](img/year-04/74-royal-mausoleums.png "The northern mausoleum is for our queen. The southern one is for the freeloader king.")
+![The royal throne room and a dead engraver](img/year-04/72-royal-throne-room.webp "That is how I found out that the engraver died")
+![The royal dining room and bedroom](img/year-04/73-royal-quarters.webp)
+![The royal mausoleums](img/year-04/74-royal-mausoleums.webp "The northern mausoleum is for our queen. The southern one is for the freeloader king.")
 
 #### Health
 

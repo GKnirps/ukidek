@@ -7,7 +7,7 @@ Year 1 of ùkidek, diary of overseer Grahar Vabôktad
 ### 15th Granite, 250
 We finally arrived at the place where the great fortress of ùkidek waits to be built. As mentioned before, we will build this fortress at the border between a lush forest and a loamy wasteland. The journey so far was uneventful but annoying. Let's dig some caves to I can sleep underground again as the gods intended.
 
-![A wagon, some dwarves and some livestock at the border between wasteland and forest](img/year-01/arrival.png "Does not look like much yet.")
+![A wagon, some dwarves and some livestock at the border between wasteland and forest](img/year-01/arrival.webp "Does not look like much yet.")
 
 We need to work fast, you never know when a necromancer decides to add your body to their collection of animated corpses. I ordered Rovod, our miner, to dig a tunnel. While Rovod is digging, Sazir the woodworker can cut down some trees. Since no one is sick or wounded yet, I told Lolor, our medical dwarf, to gather some useful plants. Once we have dug out some stone or fell some trees, we can start making doors and furniture.
 
@@ -22,7 +22,7 @@ The fourth underground layer is mudstone. At least it's better than actual mud.
 
 ### 21st Granite, 250
 
-![You have struck limonite!](img/year-01/struck-limonite.png "Our supply of iron is secured for now.")
+![You have struck limonite!](img/year-01/struck-limonite.webp "Our supply of iron is secured for now.")
 
 We found limonite which apparently is an ore of iron. For now we ignore this vein and dig our entrance hall.
 The design of the entrance hall is difficult. We need to create useful rooms quickly. We need our entrance hall to be secure against outside threats. We need our entrance hall to be wide enough for the merchants' wagons.
@@ -33,13 +33,13 @@ I decide to compromise. The entrance hall will be long. It will be narrow for no
 
 Since I have not much to do so far, I made some blueprints for the upcoming entrance hall:
 
-![Digging designations for the entrance hall and an unfinished door.](img/year-01/entrance-hall-plan.png "Dig faster!")
+![Digging designations for the entrance hall and an unfinished door.](img/year-01/entrance-hall-plan.webp "Dig faster!")
 
 Ingish the mason has created the first door which I ordered to be placed in the entrance hall.
 
 ### 25th Granite, 250
 
-![A herd of elephants wandering through a thick forest](img/year-01/elephants.png "Some people see majestic creatures. I see a source of meat and ivory.")
+![A herd of elephants wandering through a thick forest](img/year-01/elephants.webp "Some people see majestic creatures. I see a source of meat and ivory.")
 
 Apparently, elephants roam this area. Today we saw a few of them. Somewhat disturbing, but I have been told that those stories about elephants that murder scores of dwarves are only a legend and that they are actually rather peaceful animals.
 
@@ -49,7 +49,7 @@ We should still place some cage traps later on. One elephant can feed the fortre
 
 Finally! We have dug out the hall that will later become the trade depot hall. There is enough space to put all of our supplies, so we are not cut off from our stuff if something attacks us and we have to lock the door. Next we will dig some rooms for growing food and an office for me. How am I supposed to keep our stocks up to date if I don't even have a chair to sit on?
 
-![The trade depot hall, used as stockpile](img/year-01/depot-hall.png "Still only rough-hewn.")
+![The trade depot hall, used as stockpile](img/year-01/depot-hall.webp "Still only rough-hewn.")
 
 ### 18th Felsite, 250
 
@@ -59,17 +59,17 @@ Right now, our miners are working on on my office, so I can get some work done. 
 
 I plan the great hall to be three stories tall, but this is a thing for the future.
 
-![The kitchen and the still under construction](img/year-01/great-hall-plan.png "I really hope this works out as planned.")
+![The kitchen and the still under construction](img/year-01/great-hall-plan.webp "I really hope this works out as planned.")
 
 ### 4th Hematite, 250
 
 It is summer. Or it would be summer, in this climate it makes almost no difference. My office is finally usable, I have a bedroom and the other dwarves' bedrooms are dug out.
 
-![Bedrooms (under construction) and office](img/year-01/bedrooms.png "The walls are a bit rough so far.")
+![Bedrooms (under construction) and office](img/year-01/bedrooms.webp "The walls are a bit rough so far.")
 
 ### 28th Hematite, 250
 
-![Some migrants have arrived.](img/year-01/migrants-arrived.png "More mouths to fed. We don't even have rooms.")
+![Some migrants have arrived.](img/year-01/migrants-arrived.webp "More mouths to fed. We don't even have rooms.")
 
 Migrants. Seven of them, and we don't have enough rooms.
 
@@ -81,7 +81,7 @@ Oh, and they brought pets. A cavy pup and a goat kid. Since we have no pastures 
 
 The migrants work well. We don't have room for everyone yet, but our pub is almost usable, we have a mechanic's workshop and a craftsdwarf's workshop. Our stonecrafter has already assembled a nest box, so we may get eggs from our chicken soon.
 
-![The main hall](img/year-01/main-hall-late-summer.png "My office gets smooth walls. We had a good start so far.")
+![The main hall](img/year-01/main-hall-late-summer.webp "My office gets smooth walls. We had a good start so far.")
 
 ### 1st Limestone, 250
 
@@ -95,9 +95,9 @@ I think I should lock in our chicken. Maybe when they are undisturbed, chicks wi
 
 ### 3rd Limestone, 250
 
-![Thief! Protect the hoard from sulking filth!](img/year-01/thief-message.png)
+![Thief! Protect the hoard from sulking filth!](img/year-01/thief-message.webp)
 
-![A thief in our entrance corridor](img/year-01/thief-kobold.png "Seriously, we need guarding dogs")
+![A thief in our entrance corridor](img/year-01/thief-kobold.webp "Seriously, we need guarding dogs")
 
 Today we caught a kobold trying to sneak into our fortress. Not that we have things worth stealing yet, but I thought kobolds were almost extinct. Still Tekkud, one of the new guys, identified it as a kobold. I remember hearing that kobolds are very adept in avoiding traps, so we need another defence. Fortunately, we brought two dogs, so if we train them and place them in entrance (in a place safe from zombies, of course), those kobolds will have no chance of getting in.
 
@@ -107,7 +107,7 @@ I also officially declared our dining hall as meeting hall and as an inn. I hope
 
 ### 9th Limestone, 250
 
-![Several messages announcing visiting fighters](img/year-01/visiting-mercenaries.png "Let's hope we have enough beer")
+![Several messages announcing visiting fighters](img/year-01/visiting-mercenaries.webp "Let's hope we have enough beer")
 
 Uh-oh. Several mercenaries are visiting. This would be a good thing if not for the low booze stocks. Maybe I shouldn't have opened the inn so early.
 
@@ -182,8 +182,8 @@ While preparing the entrance hall, I made a small mistake. ”Dig here“, I tol
 
 A few hour later, I hear a scream: ”**my bedroom!**“. Apparently I the place where I wanted the drawbridge to the entrance hall was just above Ingish's bedroom. Fortunately, Ingish just finished preparing some stone blocks, so we can fix this hole.
 
-![A bedroom that is missing some walls](img/year-01/bedroom-destroyed.png "She needed fresh air in her bedroom anyways")
-![The entrance hall with some holes in the floor](img/year-01/entrance-hall-channels.png)
+![A bedroom that is missing some walls](img/year-01/bedroom-destroyed.webp "She needed fresh air in her bedroom anyways")
+![The entrance hall with some holes in the floor](img/year-01/entrance-hall-channels.webp)
 
 Anyway, I have to re-plan the entrance hall now.
 
@@ -204,7 +204,7 @@ Notes to my successor
 
 ### Rooming
 
-![A map of bedrooms](img/year-01/notes-rooms.png "Having a larger bedroom is a perk of being manager.")
+![A map of bedrooms](img/year-01/notes-rooms.webp "Having a larger bedroom is a perk of being manager.")
 
 On the map, you can see my bedroom and my office in the east and the other bedrooms in the west. I dug out some extra rooms roughly the same size as mine. They are meant for a potential sherriff, mayors or other dwarves that require more space than others.
 
@@ -218,23 +218,23 @@ In the center, there is a room without a way to get in. Do not open this room! I
 
 I put some effort in creating a secure entrance to the fortress, but the work is not done yet. The entrance is mostly missing some traps. There are a few things you should know, though.
 
-![Map of then entrance outside](img/year-01/notes-entrance.png "It's a hole in the ground.")
+![Map of then entrance outside](img/year-01/notes-entrance.webp "It's a hole in the ground.")
 
 This is the entrance as seen from the outside. It does not look like much. In the west is the entrance. In the east is the pasture for our grazing animals. In the north are the trees that have been cut down by our woodcutter in the beginning of the year. In the center is our refuse stockpile. Sooner or later, we should have some work done on this entrance, but it had no big priority for me.
 
-![Map of the entrance hall](img/year-01/notes-entrance-hall.png "I can explain how this can be secure")
+![Map of the entrance hall](img/year-01/notes-entrance-hall.webp "I can explain how this can be secure")
 
 This is the entrance hall. In the west, ramps go upwards to the outside world. In the east, ramps go downwards to the trade depot and the rest of the fortress. In the west, you can also see a drawbridge that can be closed by a lever. In the east, you do not see the retractable bridge above the ramps, because this bridge is retracted right now. When this bridge is unretracted, the entrance is blocked off. This means we have to ways to lock down the fortress, in case an enemy manages to enter the fortress before the first bridge is closed.
 
 In the center, you see the entrance hall. There are already some traps, and I hope there will be more traps later on. Trader wagons require a three-block-wide path to access the trade depot. The strategic placing of the traps forces the wagons to make a detour. An attacker however, will probably charge right in and will get caught in one of the traps.
 
-![Map of the trade depot with traps in the west and two dogs in the east](img/year-01/notes-trade-depot.png "It is a bit cluttered right now")
+![Map of the trade depot with traps in the west and two dogs in the east](img/year-01/notes-trade-depot.webp "It is a bit cluttered right now")
 
 Here we have our trade depot. In the east, ramps go up to the entrance hall. In the west, a hallway leads to the core of the fortress.
 
 Between the ramps and the trade depot, there are two dogs on leashes. The probably won't stop a serious attacker but they will probably buy us some time to mobilize a defense. More importantly, these dogs act as a guard against intruders that try to sneak inside. The traps in the west are just an additional line of defense.
 
-![Map of the dining hall with two levers in the east](img/year-01/notes-dining.png "What can go wrong when you lock a bunch of drunks in a room with two mysterious levers?")
+![Map of the dining hall with two levers in the east](img/year-01/notes-dining.webp "What can go wrong when you lock a bunch of drunks in a room with two mysterious levers?")
 
 This is our dining hall. I placed the levers that control the bridges in the entrance hall here, because most of the time a dwarf in the dining hall, so in an emergency, we can react quickly. The western lever is connected to the western drawbridge, the eastern lever is connected to the eastern drawbridge. They are also labeled with the same labels as the corresponding bridges. It is basically idiot-proof.
 

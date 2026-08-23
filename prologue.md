@@ -27,6 +27,6 @@ I decided to take no anvil with us and instead bought a breeding pair of pigs an
 
 I got a map of where we are supposed to found the fortress:
 
-![Local map of the fortress](img/prologue/embark-local.png "Apparently, we are on the border of a forest to a wasteland. At least there is a brook so getting fresh water should not be a problem.")
+![Local map of the fortress](img/prologue/embark-local.webp "Apparently, we are on the border of a forest to a wasteland. At least there is a brook so getting fresh water should not be a problem.")
 
-![Region map of the fortress](img/prologue/embark-region.png "The yellow X marks the spot. There are several Hillocks around us.")
+![Region map of the fortress](img/prologue/embark-region.webp "The yellow X marks the spot. There are several Hillocks around us.")

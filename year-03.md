@@ -28,22 +28,22 @@ To save other dwarves from the same fate, I decided to take my chances by lockin
 
 After an uneventful first quarter, on the morning of the 3d Hematite, there was barking at the front door, waking me up. I grabbed my clothes and ran to the entrance ramp as fast as I could, to see what the ruckus was about. Our brave watchdogs had spotted a kobold thief. Upon being discovered, it decided to make a run for it. I certainly couldn't blame it, since our military immediately grabbed their gear and stormed after it.
 
-![Another kobold thief!](img/year-03/kobold_thief.png "Kobold thief approaching")
+![Another kobold thief!](img/year-03/kobold_thief.webp "Kobold thief approaching")
 
 
 I assumed they are itching to fight after the terrible werebear attack they were helpless against, and which cost so many of our good dwarves their lives. I tried to caution them against blindly rushing out into the open wilderness, which as everyone knows is full of trees and countless other dangers, but they wouldn't listen. The kobold easily outran them of course. While they were still standing near the river, catching their breath, the alarm blared.
 
-![The goblins are upon us](img/year-03/goblin_invasion.png "A vile force of darkness")
+![The goblins are upon us](img/year-03/goblin_invasion.webp "A vile force of darkness")
 
 Our scouts had spotted a goblin invasion! Quickly, I shouted and waved to them to make a run for the safety of our entrance, which they did admirably considering their lack of practice and previous exhaustion. Once everyone was inside, I prepared to seal the entrance and block the goblins off for good. As I turned around, I spotted one of our fishermen still outside. It was Rigòth! The poor fool survived a cave-in when he was young, and is a bit hard of hearing since then. He didn't hear the alarm! We all waved and shouted at him to come in, torn between sealing off the fort and running to his rescue, since we didn't know the size of the invading force yet. Finally he noticed us and, wondering what all the fuss was about, started to look around. He instantly spotted the goblins, panicked and started running towards us, yelling at us to get ready to close the door.The goblins had noticed us too now, and started charging us. We hesitated for a moment, but then rushed back to the entrance as fast as we could. When we arrived in the relative safety of entry tunnel, we anxiously waited for Rigòth to arrive. He had been quite a bit ahead of the goblins, so we are all sure he would make it.
 
-![Fishing without a care in the world](img/year-03/unfazed_fishing.png "Last image of Rigòth")
+![Fishing without a care in the world](img/year-03/unfazed_fishing.webp "Last image of Rigòth")
 
 He didn't. I don't know what happend, maybe he stumbled and fell, but the goblins caught up with him right next to our entrance ramp, and beat him to death without a second thought. We could hear his screams, and even see his blood spattering deep down the ramp. With tears in our eyes, we decided to make the green bastards pay. We wouldn't hide behind our impenetrable defenses and wait for them to go away, we would get revenge for poor Rigòth, no matter the cost. Our captain of the guard, a young and impulsive lad named Sazir, grabbed his weapon and was about to attack them head-on, but I held him back. We had lost enough good dwarves today, and our entrance was well defended. So we retreated to the trade depot, and waited for the goblins to make their move. For a while, it was eerily quiet outside. We later found out that the goblins had stopped to methodically slaughter all of our livestock outside, before moving on to what they thought was an easy victory over the cornered dwarves.
 
 Oh, how I would have loved to see their faces when they found out what a terrible mistake they made. Still in a state of euphoria after their kills, they charged in, paying little attention to what was happening around them. They only noticed the traps when five or six of them had already fallen into them. With the majority of their frontline disabled, they backed up as fast as they could when they saw our military advance on them with grim dedication.
 
-![The goblins retreat](img/year-03/goblins_retreat.png "Victory!")
+![The goblins retreat](img/year-03/goblins_retreat.webp "Victory!")
 
 We chased them as long as we could, but the little buggers are fast when they put their mind to it, and we didn't catch one of them. I ordered the others to be taken to the newly constructed archery range. The dwarfs were only too happy to oblige, knowing what fate awaited them there. Only Sazir was infuriated. He pushed me aside, muttering something about me being a coward in the face of battle, and how we should have faced them head on, then disappeard. The insolent fool, how did he dare to insult a leader of the fort, who is a hundred years his elder too? I suppressed my anger, reminding me that he was young and witnessed a terrible death today, and retreated to my chambers.
 
@@ -51,7 +51,7 @@ We chased them as long as we could, but the little buggers are fast when they pu
 
 Peace has returned to the fort. After the shock of our loss, we took a while to bury poor Rigòth, but now he rests in peace. Constructions on the archery range as well as the required crossbows and bolts continue. Etur was acting strange today, and claimed a workshop after running up and down the halls babbling nonsense for a while. He's a bard! Against myself, I'm curious what he will craft.
 
-![A moody bard, what else is new](img/year-03/possessed_bard.png "Possessed bard")
+![A moody bard, what else is new](img/year-03/possessed_bard.webp "Possessed bard")
 
 I ordered the construction of some rock pedestals to display it and the other artifacts in our great hall. Also worth mentioning is the attached drawing of our undead archery to be in the upper left.
 
@@ -71,7 +71,7 @@ Our preparations are finally done! The archery range is ready, and we have equip
 
 We all gathered in the room, giddy with anticipation. Sazir was standing a little bit apart in the back, leaning against the wall dismissively, and shooting me a cold glance now and then. Seems he is still not happy with how I handle things. No matter! I looked around at each of the dwarves gathered there for dramatic effect, and pulled the lever. The cages instantly fell apart. The goblins and the elephant, who had just been eyeing each other cautiously during our setup instantly went at each other. The coati was trampled immediately, without even getting a single bite into a gobbos ankle. There was blood everywhere, goblins were being thrown around and the elephant let out an ear-splitting trumpet. Like many dwarfs my age, I grew up hearing the legends of boatmurdered, so I didn't really expect to see any goblins left standing when the dust settled. Reality turned out to be quite different though. The goblins had managed to inflict grievous wounds on the elephant, while escaping mostly if not completely unharmed themselves. I was baffled. I had completely stripped them of their armor and weapons before, and couldn't believe my eyes. The elephant was standing in a corner, completely resigned to his fate. It looked like all will or power to fight had left him. Three goblins were still hanging from his sides, punching him whenever they could. We continued to watch for a while, but the goblins didn't seem to do any real damage to the elephant then, just punching him with their bare, slackening fists. Embarassed, I turned to the others, looking for any suggestion what to do next, but they just shrugged and decided to leave, deciding that the show was over.
 
-![Not the spectacle we had hoped for](img/year-03/pull_the_lever.png "Aftermath")
+![Not the spectacle we had hoped for](img/year-03/pull_the_lever.webp "Aftermath")
 
 Sazir left too, pointedly bumping into me on his way out. I'll have to have a word with him at some point.
 
@@ -94,7 +94,7 @@ Meanwhile, the goblins are still punching the elephant, unfazed by the miasma cl
 
 Gusto has finished her masterpiece. It's a statue depicting the founding of ùkidek, which she artistically underlined with an image of cabbages in emu leather. It reasonates with me as a deeply profound depiction of our surroundings.
 
-![The finished masterpiece](img/year-03/gustos_artifact.png "Gustos artifact")
+![The finished masterpiece](img/year-03/gustos_artifact.webp "Gustos artifact")
 
 The novelty of the elephant-punching goblins appears to have run out, and the marksdwarves finally decided to shoot them. Libash drew first blood. He is a kind dwarf, a father, and reportedly a hopeless romantic. When his shot struck the slayer of his dwarfen brother though, it was as if a dam broke somewhere in him, and he loosened bolt after bolt into the group, laughing like a maniac. A few of his friends had to calm him down and drag him from the shooting range. He's a terrible shot though, so the goblins escaped with their lives. Some of them are wounded though, so they have started vomiting in their cell, which certainly doesn't help with the smell. Fortunatenly Sazir is out on business, I can imagine what he would have to say about this.
 
@@ -107,7 +107,7 @@ Our mayour demands we build warhammers, and I tend to agree with him. We need to
 
 The Hillocks of Dawnsacks have been founded, and made part of our holdings. I can't believe how far we've come in only three years. The goblins are still alive, most of them considerably wounded by now, vomiting all over their cell, and passing out in it. If I ever get killed in battle, I hope that it is by a skilled Marksman.
 
-![Libash unleashed](img/year-03/libash_unleashed.png "Total carnage")
+![Libash unleashed](img/year-03/libash_unleashed.webp "Total carnage")
 
 ### 26th Timber
 
